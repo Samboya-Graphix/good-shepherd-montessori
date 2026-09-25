@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import Navbar from './components/Navbar';
 import ContactFooter from './components/ContactFooter';
 import TourModal from './components/TourModal';
@@ -101,6 +102,7 @@ export default function App() {
         <ScrollToTop />
         <AppLayout />
       </Router>
+      <SpeedInsights />
     </CMSProvider>
   );
 }
