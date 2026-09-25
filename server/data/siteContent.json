@@ -1,0 +1,2387 @@
+{
+  "schoolInfo": {
+    "name": "Good Shepherd Montessori School",
+    "churchAffiliation": "Presbyterian Church of Ghana (PCG)",
+    "governingBody": "Board of Directors (Session Members)",
+    "town": "Bechem",
+    "district": "Tano South Municipal District / Ahafo Region",
+    "presbytery": "Bechem District Session & Presbytery",
+    "motto": "Growing in Faith and Love",
+    "tagline": "Inspiring Curiosity, Independence, Faith & Love",
+    "subheading": "Presbyterian Church of Ghana • Authentic Montessori Creche & Day Care in Bechem (Ages: 4 Months – 4 Years) • Dedicated to Faith, Love & Early Childhood Excellence",
+    "phone": "+233 242 130 983 / +233 247 515 423 / +233 541 910 619",
+    "phones": [
+      "+233 242 130 983",
+      "+233 247 515 423",
+      "+233 541 910 619"
+    ],
+    "phoneRaw": [
+      "+233242130983",
+      "+233247515423",
+      "+233541910619"
+    ],
+    "email": "goodshepherdmontessori15@gmail.com",
+    "address": "Presbyterian Church of Ghana Compound, Bechem, Ahafo Region, Ghana",
+    "hours": "Monday – Friday: 7:00 AM – 4:00 PM",
+    "openingTime": "7:30 AM Daily School Opening",
+    "dropOffTime": "Morning Drop-off: 7:00 AM – 7:30 AM",
+    "pickUpTime": "Afternoon Pick-up: 3:30 PM (Creche & Day Care)",
+    "agesServed": "4 Months – 4 Years",
+    "activeProgramsScope": "Creche & Day Care",
+    "maxClassSize": "Maximum 25 pupils per class (Montessori Standard)",
+    "established": 2012,
+    "logoUrl": "/logo.png",
+    "organogramChartUrl": "/school-organogram.jpg",
+    "operationalManual": "Operational Manual & GES Documentation 2026 — 109 Functions",
+    "accreditations": [
+      "Presbyterian Church of Ghana (PCG) Education Unit",
+      "Ghana Education Service (GES) Registered & Accredited",
+      "Authentic Montessori Method (AMI Standards)",
+      "Tano South Municipal Education Directorate"
+    ],
+    "stats": [
+      {
+        "label": "Ages Enrolled",
+        "value": "4m – 4 yrs",
+        "detail": "Creche & Day Care for now"
+      },
+      {
+        "label": "Classroom Ratio",
+        "value": "Max 25",
+        "detail": "Strict Montessori class size limit"
+      },
+      {
+        "label": "Moral Foundation",
+        "value": "PCG Faith",
+        "detail": "Presbyterian Church of Ghana"
+      },
+      {
+        "label": "Opening Hours",
+        "value": "7:30 AM",
+        "detail": "Prompt morning devotions"
+      }
+    ]
+  },
+  "whyChooseUs": [
+    {
+      "id": "child-centered",
+      "number": "01",
+      "title": "Child-Centered",
+      "subtitle": "Individualized Self-Directed Discovery",
+      "description": "Every child is unique. Our authentic Montessori approach recognizes that infants and toddlers learn best through active, self-paced exploration with concrete sensorial materials rather than passive lecturing.",
+      "icon": "Compass",
+      "tag": "Authentic Montessori"
+    },
+    {
+      "id": "safe-nurturing",
+      "number": "02",
+      "title": "Safe & Nurturing",
+      "subtitle": "A Peaceful Home Away From Home",
+      "description": "A secure, child-proofed campus with 24/7 security gate monitoring, thorough classroom sanitation before 7:30 AM, loving supervision, and strict positive discipline with zero abusive corporal punishment.",
+      "icon": "ShieldCheck",
+      "tag": "Child Protection"
+    },
+    {
+      "id": "christian-values",
+      "number": "03",
+      "title": "Christian Values",
+      "subtitle": "Presbyterian Faith, Love & Character",
+      "description": "Firmly rooted in the Presbyterian Church of Ghana tradition. Daily morning devotions, prayer circles, scripture memory, and Christian morals nurture young hearts to love God, respect elders, and care for others.",
+      "icon": "Heart",
+      "tag": "PCG Foundation"
+    },
+    {
+      "id": "experienced-teachers",
+      "number": "04",
+      "title": "Experienced Teachers",
+      "subtitle": "Certified Montessori Guides & Caregivers",
+      "description": "Warm, highly dedicated early childhood educators trained in authentic Montessori methods, infant hygiene, first aid, and responsive caregiving who guide each child with Christ-like patience and affection.",
+      "icon": "GraduationCap",
+      "tag": "Trained Caregivers"
+    }
+  ],
+  "programs": [
+    {
+      "id": "creche",
+      "name": "Creche Community",
+      "ages": "4 Months – 2 Years",
+      "ratio": "1 : 4 (Caregivers to Infants)",
+      "schedule": "7:30 AM – 3:30 PM (Drop-off from 7:00 AM)",
+      "overview": "A peaceful, hygienic, and loving haven in Bechem specifically designed for infants and early toddlers. Tender guidance promotes motor coordination, speech explosion, sensory exploration, and emotional security.",
+      "badge": "Currently Enrolling",
+      "accentColor": "blue",
+      "featured": true,
+      "curriculumAreas": [
+        {
+          "name": "Sensory & Motor Coordination",
+          "description": "Soft tactile textiles, grasping rings, wooden rattle cylinders, tummy time mats"
+        },
+        {
+          "name": "Language & Melody",
+          "description": "Gentle Christian lullabies, spoken rhyme circles, object naming, story listening"
+        },
+        {
+          "name": "Practical Life & Self-Care",
+          "description": "Independent spoon-feeding, drinking from small cups, handwashing, packing toys"
+        },
+        {
+          "name": "Emotional Security & Love",
+          "description": "Unconditional warmth, responsive rocking, peaceful nap schedules in clean cots"
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "7:00 – 7:30 AM",
+          "title": "Parent Drop-off, Warm Handover & Morning Health Check"
+        },
+        {
+          "time": "8:00 AM",
+          "title": "Gentle Morning Devotion & Praise Songs"
+        },
+        {
+          "time": "8:30 AM",
+          "title": "Uninterrupted Sensory Floor Work & Motor Exploration"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Healthy Morning Snack & Hydration (Home-Packed)"
+        },
+        {
+          "time": "10:30 AM",
+          "title": "Tummy Time & Shaded Outdoor Garden Strolls"
+        },
+        {
+          "time": "11:45 AM",
+          "title": "Community Lunch & Hygiene Routine (Home-Packed Meals)"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Quiet Resting & Nap Time in Prepared Cots"
+        },
+        {
+          "time": "3:30 PM",
+          "title": "Parent Pick-up & Daily Developmental Briefing"
+        }
+      ],
+      "tuition": {
+        "termlyFee": "GH₵ 950 / Term",
+        "annualFee": "GH₵ 2,850 / Year",
+        "details": "Includes infant learning materials, continuous sanitization, developmental records & afternoon care."
+      }
+    },
+    {
+      "id": "day-care",
+      "name": "Day Care & Nursery Community",
+      "ages": "2 – 4 Years",
+      "ratio": "1 : 6 (Lead Guide & Assistant)",
+      "schedule": "7:30 AM – 3:30 PM (Drop-off from 7:00 AM)",
+      "overview": "The core early childhood Montessori environment where energetic toddlers blossom into confident, self-directed learners. Fosters concrete mathematics, early phonics sounds, practical life mastery, and Christian fellowship.",
+      "badge": "Currently Enrolling",
+      "accentColor": "blue",
+      "featured": true,
+      "curriculumAreas": [
+        {
+          "name": "Practical Life Skills",
+          "description": "Pouring grains, spooning beads, buttoning frames, table washing, sweeping with child-sized brooms"
+        },
+        {
+          "name": "Sensorial Exploration",
+          "description": "Pink Tower dimension blocks, Broad Stairs, knobbed cylinder blocks, color tablets"
+        },
+        {
+          "name": "Early Phonics & Language",
+          "description": "Sandpaper Letters, sound matching pouches, oral vocabulary cards, conversational fluency"
+        },
+        {
+          "name": "Faith, Courtesy & Grace",
+          "description": "Presbyterian morning devotions, Bible memory verses, polite greetings, peaceful sharing"
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "7:00 – 7:30 AM",
+          "title": "Parent Drop-off & Individual Guide Greeting"
+        },
+        {
+          "time": "7:30 AM",
+          "title": "Morning Assembly, Scripture Verse & Presbyterian Devotion"
+        },
+        {
+          "time": "8:15 AM",
+          "title": "3-Hour Montessori Work Cycle (Practical Life & Sensorial Work)"
+        },
+        {
+          "time": "11:15 AM",
+          "title": "Grace, Courtesy & Community Circle Time"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Community Lunch & Hygiene Table Cleanup (Home-Packed Meals)"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Storytelling, Rest / Quiet Montessori Sensorial Puzzles"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Music, Rhymes, Movement & Garden Exploration"
+        },
+        {
+          "time": "3:30 PM",
+          "title": "Closing Prayer & Orderly Parent Pick-up"
+        }
+      ],
+      "tuition": {
+        "termlyFee": "GH₵ 1,150 / Term",
+        "annualFee": "GH₵ 3,450 / Year",
+        "details": "Comprehensive Montessori didactic apparatus, art supplies, learning materials, and termly portfolios."
+      }
+    }
+  ],
+  "expansionNotice": {
+    "title": "Future Educational Expansion",
+    "scope": "Kindergarten (KG1–KG2) and Basic Primary (Class 1–6)",
+    "description": "Good Shepherd Montessori School is currently dedicating its full educational excellence to Creche and Day Care (Ages: 4 Months to 4 Years). Kindergarten and Basic School departments will be opened in subsequent developmental phases under the Presbyterian Church of Ghana and GES guidelines."
+  },
+  "administrationBoard": [
+    {
+      "id": "board-chair",
+      "name": "Board of Directors (Session Members)",
+      "tier": "Tier 1: Governing Board",
+      "role": "Strategic Governance & Institutional Policy",
+      "department": "Presbyterian Session & Governing Board",
+      "churchRole": "Session Members, Presbyterian Church of Ghana",
+      "image": "/uploads/photo-1790287379586.jpg",
+      "bio": "Formulates long-term strategic direction (3–5 years), approves annual development budgets and fee structures, and ensures strict compliance with Ghana Education Service (GES) and Presbyterian Church of Ghana (PCG) standards.",
+      "functions": [
+        "Provides overall vision, mission, and strategic direction ('Christ-centered Montessori excellence')",
+        "Formulates and ratifies admissions, staff code of conduct, child protection, and safety policies",
+        "Approves annual operating budgets, infrastructure development, and Montessori procurement",
+        "Ensures full compliance with GES regulations and PCG Education Unit accreditation",
+        "Appoints and appraises Management Committee members annually",
+        "Mobilizes community resources, church support, and presbytery partnerships",
+        "Safeguards Presbyterian identity, morning devotions, and Christian discipline",
+        "Approves class size limits (maximum 25 pupils per Montessori standard) and affordable fee schedules",
+        "Receives and scrutinizes termly academic performance and financial audit reports",
+        "Serves as the final appellate body for staff, parent, or disciplinary grievances",
+        "Guarantees campus insurance, structural safety, first aid readiness, and Ghanaian legal compliance"
+      ]
+    },
+    {
+      "id": "district-minister",
+      "name": "Director (District Minister)",
+      "tier": "Tier 2: Management Committee",
+      "role": "Chairman, Management Committee & Spiritual Oversight",
+      "department": "Executive Leadership & Chaplaincy",
+      "churchRole": "District Minister, Presbyterian Church of Ghana, Bechem",
+      "image": "/uploads/photo-1790288249469.jpg",
+      "bio": "Provides spiritual covering and pastoral guidance, chairs monthly Management Committee meetings, leads morning devotions, and ensures Presbyterian Christian values are deeply integrated into daily school life.",
+      "functions": [
+        "Chairs monthly School Management Committee meetings with Christ-centered leadership",
+        "Provides pastoral covering, daily morning devotions, and prayer support for staff and pupils",
+        "Ensures Presbyterian values, Bible knowledge, and Christian morals are woven into school life",
+        "Represents the school at District Session and Presbytery meetings, advocating for institutional needs",
+        "Liaises between Governing Board, Presbytery, and school management with accurate reporting",
+        "Approves emergency decisions in consultation with management when Board is not in session",
+        "Officiates dedicating new facilities, graduation ceremonies, anniversaries, and PTA worship",
+        "Oversees daily chaplaincy services and moral education across all classrooms",
+        "Provides pastoral counseling and Christian conflict resolution for staff, parents, and management"
+      ]
+    },
+    {
+      "id": "supervisor",
+      "name": "Academic Supervisor",
+      "tier": "Tier 2: Management Committee",
+      "role": "Curriculum Implementation & Teaching Quality",
+      "department": "Curriculum & Quality Assurance",
+      "churchRole": "Education Representative, PCG Education Unit",
+      "image": "/uploads/photo-1790287414676.jpg",
+      "bio": "Monitors the harmonious blending of authentic Montessori pedagogy with the Ghana Education Service (GES) Kindergarten and basic curriculum through weekly classroom observations and TLM vetting.",
+      "functions": [
+        "Ensures Montessori Method (practical life, sensorial, language, math, cultural) is blended with GES curriculum",
+        "Conducts weekly classroom observations, evaluating child engagement and facilitator pedagogy",
+        "Vets and approves weekly lesson notes, ensuring age-appropriate and active Montessori apparatus usage",
+        "Organizes termly capacity building workshops on Montessori methods and child psychology",
+        "Analyzes pupil assessment records and advises on targeted academic interventions",
+        "Inspects classrooms to maintain child-friendly, well-ventilated, uncrowded prepared environments",
+        "Ensures proper maintenance of didactic Montessori apparatus and improvised local TLMs",
+        "Monitors continuous assessment records, observation logs, and individual pupil portfolios",
+        "Liaises with GES and PCG Education Unit inspectors, submitting required academic data",
+        "Prepares termly academic performance reports for the Management Committee and Board",
+        "Ensures inclusive education, supporting children with learning difficulties without stigmatization"
+      ]
+    },
+    {
+      "id": "administrator",
+      "name": "School Administrator",
+      "tier": "Tier 2: Management Committee",
+      "role": "Administrative Engine & Institutional Secretariat",
+      "department": "Admissions, Records & Logistics",
+      "churchRole": "Secretariat & Administrative Liaison",
+      "image": "/uploads/photo-1790287452226.jpg",
+      "bio": "The administrative engine of Good Shepherd: maintains the master admissions register, EMIS electronic database, official GES and Church correspondence, procurement of Montessori learning apparatus, and campus asset maintenance.",
+      "functions": [
+        "Maintains the master admissions register, pupil records, and electronic EMIS database",
+        "Prepares official correspondence to GES, Presbyterian Church, and parent circulars",
+        "Assists in fee collection tracking, receipt filing, and auditing support with the Treasurer",
+        "Coordinates procurement of didactic Montessori materials, stationery, and classroom supplies",
+        "Serves as Secretary to the School Management Committee, keeping detailed meeting minutes",
+        "Manages staff duty rosters, punctuality monitoring, and attendance records",
+        "Supervises maintenance of school buildings, furniture, WASH facilities, and asset registers",
+        "Handles public relations, parent reception, visitor logging, and general inquiries",
+        "Enforces school policies, code of conduct, and prepares termly administrative reports",
+        "Oversees campus property safety, perimeter security, and emergency preparedness"
+      ]
+    },
+    {
+      "id": "treasurer",
+      "name": "School Accountant / Treasurer",
+      "tier": "Tier 2: Management Committee",
+      "role": "Financial Prudence & Accounts Management",
+      "department": "Finance & Accounts",
+      "churchRole": "Financial Officer, PCG Financial Compliance",
+      "image": "/uploads/photo-1790287464844.jpg",
+      "bio": "Maintains financial accounts, cash books, issues official receipts for all fee payments, drafts annual budgets, and guarantees complete transparency under the PCG Financial Policy.",
+      "functions": [
+        "Maintains accurate records of all school income and expenditures in official cash books",
+        "Collects school fees and issues official serial-numbered receipts for every transaction",
+        "Prepares monthly and termly financial statements and assists in drafting annual operating budgets",
+        "Enforces strict voucher payment approvals—ensures zero unauthorized expenditures",
+        "Manages official bank lodgments and performs monthly bank reconciliations",
+        "Liaises with PCG external auditors to facilitate transparent annual auditing",
+        "Advises the Management Committee on prudent cost control and tracks fee payment plans",
+        "Keeps all financial vouchers, books, and sensitive fiscal documents under secure lock",
+        "Guarantees full compliance with the Presbyterian Church of Ghana Financial Policy"
+      ]
+    },
+    {
+      "id": "head-of-school",
+      "name": "Head of School",
+      "tier": "Tier 3: Campus Leadership",
+      "role": "Day-to-Day Operations & Faculty Leadership",
+      "department": "Academic & Campus Administration",
+      "churchRole": "Head of School, Good Shepherd Bechem",
+      "image": "/uploads/photo-1790287476334.jpg",
+      "bio": "Opens school at 7:30 AM, supervises facilitators and non-teaching staff, enforces child-centered Montessori methods, enforces child protection with zero abusive corporal punishment, and coordinates terminal assessment reports.",
+      "functions": [
+        "Opens campus early at 7:30 AM and ensures classes and work cycles commence promptly",
+        "Directly executes Board and Management decisions across daily classroom operations",
+        "Supervises and quarterly mentors facilitators and non-teaching personnel",
+        "Ensures authentic child-centered Montessori practices are actively maintained",
+        "Prepares daily routines, academic timetables, and termly school event calendars",
+        "Strictly enforces child protection policy and positive discipline with zero abusive corporal punishment",
+        "Monitors daily pupil attendance, health records, and terminal assessment portfolios",
+        "Maintains transparent parent communication via PTA assemblies, circulars, and report cards",
+        "Organizes school worship devotions, sports days, cultural exhibitions, and graduation events",
+        "Ensures compound cleanliness, functional WASH handwashing facilities, and first aid readiness",
+        "Serves as exemplary role model in Christian piety, professional punctuality, and loving care"
+      ]
+    },
+    {
+      "id": "facilitators",
+      "name": "Montessori Facilitators (Teaching Faculty)",
+      "tier": "Tier 4: Classroom Instruction",
+      "role": "Classroom Guides & Child Development Mentors",
+      "department": "Teaching Faculty",
+      "churchRole": "Montessori Educators & Christian Role Models",
+      "image": "/uploads/photo-1790287486890.jpg",
+      "bio": "Guides children to learn by doing through self-directed exploration, preparing child-sized Montessori environments, recording individual developmental milestones, and teaching courtesy, respect, and hygiene with Christian love.",
+      "functions": [
+        "Guides children to learn by doing through hands-on exploration rather than passive lecturing",
+        "Prepares weekly learning plans and creates engaging corners with local and Montessori apparatus",
+        "Arranges prepared classrooms with child-sized furniture and orderly low shelves",
+        "Observes each child daily, meticulously tracking milestones and sensitive developmental periods",
+        "Maintains continuous assessment portfolios, attendance registers, and developmental profiles",
+        "Teaches grace, courtesy, respect, honesty, and personal hygiene with patient Christian love",
+        "Ensures children are safe and never left unattended in classrooms or playground",
+        "Provides daily developmental feedback to parents during afternoon pick-up",
+        "Identifies speech delays or learning difficulties early for gentle, loving intervention",
+        "Attends termly pedagogical workshops and staff devotions with prompt punctuality",
+        "Works collaboratively as a unified pedagogical team across Creche, KG, and Primary",
+        "Teaches children to respect, properly use, and return Montessori apparatus to their rightful places",
+        "Prepares KG2 children for smooth, confident, and gentle transition into primary education",
+        "Exemplifies Christian values, modesty, polite speech, and deep affection for young children",
+        "Demonstrates unconditional love, fairness, and Christ-like patience in all pupil interactions"
+      ]
+    },
+    {
+      "id": "support-team",
+      "name": "Non-Teaching Support Team",
+      "tier": "Tier 5: Campus Operations",
+      "role": "Sanitation, Health & Hygiene, Landscaping & Security",
+      "department": "Campus Support & Facilities",
+      "churchRole": "Support Team, Good Shepherd Bechem",
+      "image": "/uploads/photo-1790287498564.jpg",
+      "bio": "Dedicated support team ensuring pristine classroom cleanliness before 7:30 AM, child safety, hygiene station maintenance, 24/7 security and compound landscaping in Bechem.",
+      "functions": [
+        "Cleaners: Thoroughly sweep and mop classrooms, offices, and toilets before 7:30 AM and after dismissal",
+        "Sanitation: Empties dustbins daily and disposes waste at designated municipal hygiene sites",
+        "Child Support: Assists facilitators with younger children's handwashing, snack supervision, and hygiene care",
+        "Hygiene Stations: Maintains handwashing stands with fresh water, liquid soap, and clean towels",
+        "Mealtime Care: Assists pupils with opening food containers, clean table habits, and post-lunch sanitization",
+        "Security Guards: Controls campus gates 24/7, registers all visitors, and prevents unauthorized entry",
+        "Gardener: Maintains manicured lawns, waters floral gardens, and tends educational school gardens",
+        "Maintenance: Promptly inspects and reports broken furniture, pipe leakages, or electrical faults",
+        "Safety Vigilance: Immediately flags strangers, safety risks, or child protection concerns",
+        "Christian Culture: Attends staff morning devotions and maintains orderly learning spaces"
+      ]
+    }
+  ],
+  "schoolNotices": [
+    {
+      "id": "notice-1",
+      "title": "Admissions Open for the Upcoming Academic Year",
+      "category": "Admissions",
+      "date": "September 2026",
+      "priority": "High",
+      "summary": "Enrollment is now officially open for Creche and Day Care (Ages 4 Months to 4 Years).",
+      "content": "Good Shepherd Montessori School warmly invites parents and guardians in Bechem and surrounding communities to submit online or in-person admission applications. Due to our strictly maintained teacher-pupil ratios, classroom vacancies are allocated on a rolling first-come basis after preliminary assessment. Visit our administration block or apply online via our new portal.",
+      "author": "Admissions Office, Bechem Campus"
+    },
+    {
+      "id": "notice-2",
+      "title": "Term 1 Reopening & Morning Schedule Guidelines",
+      "category": "Academic",
+      "date": "September 15, 2026",
+      "priority": "High",
+      "summary": "School resumes promptly at 7:00 AM. Parents are reminded that drop-off is strictly between 7:00 AM and 7:30 AM.",
+      "content": "All continuing and fresh pupils are expected on campus by 7:30 AM for morning devotions. We remind all parents that the school does not offer transportation; kindly arrange safe family drop-off between 7:00 AM – 7:30 AM and prompt pick-up at 3:30 PM for our Creche and Day Care pupils.",
+      "author": "Head of School"
+    },
+    {
+      "id": "notice-3",
+      "title": "Annual PTA General Meeting & Executive Elections",
+      "category": "PTA",
+      "date": "October 10, 2026",
+      "priority": "Normal",
+      "summary": "All parents and guardians are invited to the Term 1 PTA General Assembly in the School Main Hall at 9:00 AM.",
+      "content": "Key agenda items include the review of campus infrastructure expansions, the review of academic progress reports, and the election of new parent representatives to the School Governing Council. Refreshments will be served.",
+      "author": "PTA Executive Committee"
+    },
+    {
+      "id": "notice-4",
+      "title": "Term Fee Payment & Instalment Arrangements",
+      "category": "Finance",
+      "date": "September 5, 2026",
+      "priority": "Normal",
+      "summary": "Parents are kindly urged to settle term fees through the approved GCB Bank, Ecobank, or MTN MoMo merchant channels.",
+      "content": "To ensure seamless teaching materials distribution and student catering, please make all payments into the official Good Shepherd Montessori School accounts. Submit the bank paying-in slip or MoMo reference text to the Bursar for an official receipt.",
+      "author": "Accounts & Bursar Department"
+    },
+    {
+      "id": "notice-5",
+      "title": "Healthy Snack & No-Junk-Food Policy Reminder",
+      "category": "Health & Welfare",
+      "date": "August 28, 2026",
+      "priority": "Normal",
+      "summary": "Promoting physical vitality and sound mental concentration through natural, wholesome school snacks.",
+      "content": "In line with our Montessori health and hygiene philosophy, carbonated fizzy drinks, artificial sugary confectionery, and instant noodles are not permitted in lunchboxes. We encourage fresh fruit, natural juices, and wholesome home-cooked snacks.",
+      "author": "School Health & Catering Unit"
+    }
+  ],
+  "academicCalendar": {
+    "academicYear": "2026 / 2027 Academic Year",
+    "terms": [
+      {
+        "term": "Term One (First Term)",
+        "period": "September – December",
+        "reopening": "Tuesday, 15th September 2026",
+        "midTermBreak": "Thursday, 29th October – Friday, 30th October 2026",
+        "examsWeek": "Monday, 30th November – Friday, 4th December 2026",
+        "vacation": "Thursday, 17th December 2026",
+        "events": [
+          {
+            "date": "Sept 15",
+            "name": "School Reopens for Term 1"
+          },
+          {
+            "date": "Oct 10",
+            "name": "PTA General Assembly"
+          },
+          {
+            "date": "Oct 23",
+            "name": "Literacy & Montessori Phonics Week"
+          },
+          {
+            "date": "Dec 16",
+            "name": "Christmas Carol Service & Festival of Nine Lessons"
+          }
+        ]
+      },
+      {
+        "term": "Term Two (Second Term)",
+        "period": "January – April",
+        "reopening": "Tuesday, 12th January 2027",
+        "midTermBreak": "Thursday, 18th February – Friday, 19th February 2027",
+        "examsWeek": "Monday, 22nd March – Friday, 26th March 2027",
+        "vacation": "Thursday, 8th April 2027",
+        "events": [
+          {
+            "date": "Jan 12",
+            "name": "School Reopens for Term 2"
+          },
+          {
+            "date": "Feb 14",
+            "name": "Faith & Love Charity Outreach Day"
+          },
+          {
+            "date": "Mar 6",
+            "name": "Independence Day Parade & Cultural Display"
+          },
+          {
+            "date": "Mar 19",
+            "name": "Montessori Practical Life & Science Exhibition"
+          }
+        ]
+      },
+      {
+        "term": "Term Three (Third Term)",
+        "period": "May – August",
+        "reopening": "Tuesday, 4th May 2027",
+        "midTermBreak": "Thursday, 17th June – Friday, 18th June 2027",
+        "examsWeek": "Monday, 12th July – Friday, 16th July 2027",
+        "vacation": "Thursday, 29th July 2027",
+        "events": [
+          {
+            "date": "May 4",
+            "name": "School Reopens for Term 3"
+          },
+          {
+            "date": "June 4",
+            "name": "Inter-House Athletics & Fun Games"
+          },
+          {
+            "date": "July 24",
+            "name": "Annual Speech, Prize-Giving & KG Graduation Ceremony"
+          },
+          {
+            "date": "July 29",
+            "name": "Vacation & Distribution of Reports"
+          }
+        ]
+      }
+    ]
+  },
+  "galleryItems": [
+    {
+      "id": "gal-creche-infant",
+      "title": "Creche & Infant Sensory Care",
+      "category": "Montessori Classrooms",
+      "level": "Creche (4m – 2 yrs)",
+      "image": "/images/home-creche-infant.jpg",
+      "caption": "Infants exploring motor balance and visual stimulation in a safe, loving environment in Bechem."
+    },
+    {
+      "id": "gal-daycare-bouncy",
+      "title": "Sensorial & Motor Development",
+      "category": "Outdoor & Sports",
+      "level": "Day Care (2 – 4 yrs)",
+      "image": "/images/home-daycare-bouncy.jpg",
+      "caption": "Active motor play and balance development on our child-friendly play equipment."
+    },
+    {
+      "id": "gal-ride-on-play",
+      "title": "Active Play & Friendship",
+      "category": "Outdoor & Sports",
+      "level": "Early Childhood",
+      "image": "/images/home-ride-on-play.jpg",
+      "caption": "Pupils sharing ride-on toys, fostering social bonds, coordination, and joyous cooperation."
+    },
+    {
+      "id": "gal-class-group",
+      "title": "Class Community & Values",
+      "category": "Montessori Classrooms",
+      "level": "Creche & Day Care",
+      "image": "/images/home-class-group.jpg",
+      "caption": "Our vibrant pupil community in school uniform, learning together and growing in faith and love."
+    },
+    {
+      "id": "gal-1790268909395-1",
+      "title": "IMG 20260924 WA0001",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909222-1.jpg",
+      "caption": "IMG 20260924 WA0001"
+    },
+    {
+      "id": "gal-1790268909395-2",
+      "title": "IMG 20260924 WA0002",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909226-2.jpg",
+      "caption": "IMG 20260924 WA0002"
+    },
+    {
+      "id": "gal-1790268909395-3",
+      "title": "IMG 20260924 WA0003",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909227-3.jpg",
+      "caption": "IMG 20260924 WA0003"
+    },
+    {
+      "id": "gal-1790268909395-4",
+      "title": "IMG 20260924 WA0004",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909228-4.jpg",
+      "caption": "IMG 20260924 WA0004"
+    },
+    {
+      "id": "gal-1790268909395-5",
+      "title": "IMG 20260924 WA0005",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909230-5.jpg",
+      "caption": "IMG 20260924 WA0005"
+    },
+    {
+      "id": "gal-1790268909395-6",
+      "title": "IMG 20260924 WA0006",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909232-6.jpg",
+      "caption": "IMG 20260924 WA0006"
+    },
+    {
+      "id": "gal-1790268909395-7",
+      "title": "IMG 20260924 WA0007",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909233-7.jpg",
+      "caption": "IMG 20260924 WA0007"
+    },
+    {
+      "id": "gal-1790268909395-8",
+      "title": "IMG 20260924 WA0008",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909235-8.jpg",
+      "caption": "IMG 20260924 WA0008"
+    },
+    {
+      "id": "gal-1790268909396-9",
+      "title": "IMG 20260924 WA0009",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909236-9.jpg",
+      "caption": "IMG 20260924 WA0009"
+    },
+    {
+      "id": "gal-1790268909396-10",
+      "title": "IMG 20260924 WA0010",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909238-10.jpg",
+      "caption": "IMG 20260924 WA0010"
+    },
+    {
+      "id": "gal-1790268909396-11",
+      "title": "IMG 20260924 WA0011",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909239-11.jpg",
+      "caption": "IMG 20260924 WA0011"
+    },
+    {
+      "id": "gal-1790268909396-12",
+      "title": "IMG 20260924 WA0012",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909241-12.jpg",
+      "caption": "IMG 20260924 WA0012"
+    },
+    {
+      "id": "gal-1790268909396-13",
+      "title": "IMG 20260924 WA0013",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909242-13.jpg",
+      "caption": "IMG 20260924 WA0013"
+    },
+    {
+      "id": "gal-1790268909396-14",
+      "title": "IMG 20260924 WA0014",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909243-14.jpg",
+      "caption": "IMG 20260924 WA0014"
+    },
+    {
+      "id": "gal-1790268909396-15",
+      "title": "IMG 20260924 WA0015",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909244-15.jpg",
+      "caption": "IMG 20260924 WA0015"
+    },
+    {
+      "id": "gal-1790268909396-16",
+      "title": "IMG 20260924 WA0016",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909245-16.jpg",
+      "caption": "IMG 20260924 WA0016"
+    },
+    {
+      "id": "gal-1790268909396-17",
+      "title": "IMG 20260924 WA0017",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909247-17.jpg",
+      "caption": "IMG 20260924 WA0017"
+    },
+    {
+      "id": "gal-1790268909396-18",
+      "title": "IMG 20260924 WA0018",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909248-18.jpg",
+      "caption": "IMG 20260924 WA0018"
+    },
+    {
+      "id": "gal-1790268909396-19",
+      "title": "IMG 20260924 WA0019",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909249-19.jpg",
+      "caption": "IMG 20260924 WA0019"
+    },
+    {
+      "id": "gal-1790268909396-20",
+      "title": "IMG 20260924 WA0020",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909250-20.jpg",
+      "caption": "IMG 20260924 WA0020"
+    },
+    {
+      "id": "gal-1790268909396-21",
+      "title": "IMG 20260924 WA0021",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909251-21.jpg",
+      "caption": "IMG 20260924 WA0021"
+    },
+    {
+      "id": "gal-1790268909396-22",
+      "title": "IMG 20260924 WA0022",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909252-22.jpg",
+      "caption": "IMG 20260924 WA0022"
+    },
+    {
+      "id": "gal-1790268909396-23",
+      "title": "IMG 20260924 WA0023",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909253-23.jpg",
+      "caption": "IMG 20260924 WA0023"
+    },
+    {
+      "id": "gal-1790268909396-24",
+      "title": "IMG 20260924 WA0024",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909254-24.jpg",
+      "caption": "IMG 20260924 WA0024"
+    },
+    {
+      "id": "gal-1790268909396-25",
+      "title": "IMG 20260924 WA0025",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909255-25.jpg",
+      "caption": "IMG 20260924 WA0025"
+    },
+    {
+      "id": "gal-1790268909396-26",
+      "title": "IMG 20260924 WA0026",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909256-26.jpg",
+      "caption": "IMG 20260924 WA0026"
+    },
+    {
+      "id": "gal-1790268909396-27",
+      "title": "IMG 20260924 WA0027",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909257-27.jpg",
+      "caption": "IMG 20260924 WA0027"
+    },
+    {
+      "id": "gal-1790268909396-28",
+      "title": "IMG 20260924 WA0028",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909258-28.jpg",
+      "caption": "IMG 20260924 WA0028"
+    },
+    {
+      "id": "gal-1790268909396-29",
+      "title": "IMG 20260924 WA0029",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909259-29.jpg",
+      "caption": "IMG 20260924 WA0029"
+    },
+    {
+      "id": "gal-1790268909396-30",
+      "title": "IMG 20260924 WA0030",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909259-30.jpg",
+      "caption": "IMG 20260924 WA0030"
+    },
+    {
+      "id": "gal-1790268909396-31",
+      "title": "IMG 20260924 WA0031",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909260-31.jpg",
+      "caption": "IMG 20260924 WA0031"
+    },
+    {
+      "id": "gal-1790268909396-32",
+      "title": "IMG 20260924 WA0032",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909261-32.jpg",
+      "caption": "IMG 20260924 WA0032"
+    },
+    {
+      "id": "gal-1790268909396-33",
+      "title": "IMG 20260924 WA0033",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909263-33.jpg",
+      "caption": "IMG 20260924 WA0033"
+    },
+    {
+      "id": "gal-1790268909396-34",
+      "title": "IMG 20260924 WA0034",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909264-34.jpg",
+      "caption": "IMG 20260924 WA0034"
+    },
+    {
+      "id": "gal-1790268909396-35",
+      "title": "IMG 20260924 WA0035",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909265-35.jpg",
+      "caption": "IMG 20260924 WA0035"
+    },
+    {
+      "id": "gal-1790268909396-36",
+      "title": "IMG 20260924 WA0036",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909266-36.jpg",
+      "caption": "IMG 20260924 WA0036"
+    },
+    {
+      "id": "gal-1790268909396-37",
+      "title": "IMG 20260924 WA0037",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909267-37.jpg",
+      "caption": "IMG 20260924 WA0037"
+    },
+    {
+      "id": "gal-1790268909396-38",
+      "title": "IMG 20260924 WA0038",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909268-38.jpg",
+      "caption": "IMG 20260924 WA0038"
+    },
+    {
+      "id": "gal-1790268909396-39",
+      "title": "IMG 20260924 WA0039",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909269-39.jpg",
+      "caption": "IMG 20260924 WA0039"
+    },
+    {
+      "id": "gal-1790268909396-40",
+      "title": "IMG 20260924 WA0040",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909271-40.jpg",
+      "caption": "IMG 20260924 WA0040"
+    },
+    {
+      "id": "gal-1790268909396-41",
+      "title": "IMG 20260924 WA0041",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909272-41.jpg",
+      "caption": "IMG 20260924 WA0041"
+    },
+    {
+      "id": "gal-1790268909396-42",
+      "title": "IMG 20260924 WA0042",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909273-42.jpg",
+      "caption": "IMG 20260924 WA0042"
+    },
+    {
+      "id": "gal-1790268909396-43",
+      "title": "IMG 20260924 WA0043",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909274-43.jpg",
+      "caption": "IMG 20260924 WA0043"
+    },
+    {
+      "id": "gal-1790268909396-44",
+      "title": "IMG 20260924 WA0044",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909275-44.jpg",
+      "caption": "IMG 20260924 WA0044"
+    },
+    {
+      "id": "gal-1790268909396-45",
+      "title": "IMG 20260924 WA0045",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909276-45.jpg",
+      "caption": "IMG 20260924 WA0045"
+    },
+    {
+      "id": "gal-1790268909396-46",
+      "title": "IMG 20260924 WA0046",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909277-46.jpg",
+      "caption": "IMG 20260924 WA0046"
+    },
+    {
+      "id": "gal-1790268909396-47",
+      "title": "IMG 20260924 WA0047",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909278-47.jpg",
+      "caption": "IMG 20260924 WA0047"
+    },
+    {
+      "id": "gal-1790268909396-48",
+      "title": "IMG 20260924 WA0048",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909280-48.jpg",
+      "caption": "IMG 20260924 WA0048"
+    },
+    {
+      "id": "gal-1790268909396-49",
+      "title": "IMG 20260924 WA0049",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909281-49.jpg",
+      "caption": "IMG 20260924 WA0049"
+    },
+    {
+      "id": "gal-1790268909396-50",
+      "title": "IMG 20260924 WA0050",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909282-50.jpg",
+      "caption": "IMG 20260924 WA0050"
+    },
+    {
+      "id": "gal-1790268909396-51",
+      "title": "IMG 20260924 WA0051",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909283-51.jpg",
+      "caption": "IMG 20260924 WA0051"
+    },
+    {
+      "id": "gal-1790268909396-52",
+      "title": "IMG 20260924 WA0052",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909284-52.jpg",
+      "caption": "IMG 20260924 WA0052"
+    },
+    {
+      "id": "gal-1790268909396-53",
+      "title": "IMG 20260924 WA0053",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909285-53.jpg",
+      "caption": "IMG 20260924 WA0053"
+    },
+    {
+      "id": "gal-1790268909396-54",
+      "title": "IMG 20260924 WA0054",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909286-54.jpg",
+      "caption": "IMG 20260924 WA0054"
+    },
+    {
+      "id": "gal-1790268909396-55",
+      "title": "IMG 20260924 WA0055",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909288-55.jpg",
+      "caption": "IMG 20260924 WA0055"
+    },
+    {
+      "id": "gal-1790268909396-56",
+      "title": "IMG 20260924 WA0056",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909289-56.jpg",
+      "caption": "IMG 20260924 WA0056"
+    },
+    {
+      "id": "gal-1790268909396-57",
+      "title": "IMG 20260924 WA0057",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909290-57.jpg",
+      "caption": "IMG 20260924 WA0057"
+    },
+    {
+      "id": "gal-1790268909396-58",
+      "title": "IMG 20260924 WA0058",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909291-58.jpg",
+      "caption": "IMG 20260924 WA0058"
+    },
+    {
+      "id": "gal-1790268909396-59",
+      "title": "IMG 20260924 WA0059",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909292-59.jpg",
+      "caption": "IMG 20260924 WA0059"
+    },
+    {
+      "id": "gal-1790268909396-60",
+      "title": "IMG 20260924 WA0060",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909293-60.jpg",
+      "caption": "IMG 20260924 WA0060"
+    },
+    {
+      "id": "gal-1790268909396-61",
+      "title": "IMG 20260924 WA0061",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909294-61.jpg",
+      "caption": "IMG 20260924 WA0061"
+    },
+    {
+      "id": "gal-1790268909396-62",
+      "title": "IMG 20260924 WA0062",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909295-62.jpg",
+      "caption": "IMG 20260924 WA0062"
+    },
+    {
+      "id": "gal-1790268909396-63",
+      "title": "IMG 20260924 WA0063",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909296-63.jpg",
+      "caption": "IMG 20260924 WA0063"
+    },
+    {
+      "id": "gal-1790268909396-64",
+      "title": "IMG 20260924 WA0064",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909298-64.jpg",
+      "caption": "IMG 20260924 WA0064"
+    },
+    {
+      "id": "gal-1790268909396-65",
+      "title": "IMG 20260924 WA0065",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909299-65.jpg",
+      "caption": "IMG 20260924 WA0065"
+    },
+    {
+      "id": "gal-1790268909396-66",
+      "title": "IMG 20260924 WA0066",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909300-66.jpg",
+      "caption": "IMG 20260924 WA0066"
+    },
+    {
+      "id": "gal-1790268909396-67",
+      "title": "IMG 20260924 WA0067",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909301-67.jpg",
+      "caption": "IMG 20260924 WA0067"
+    },
+    {
+      "id": "gal-1790268909396-68",
+      "title": "IMG 20260924 WA0068",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909302-68.jpg",
+      "caption": "IMG 20260924 WA0068"
+    },
+    {
+      "id": "gal-1790268909396-69",
+      "title": "IMG 20260924 WA0069",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909303-69.jpg",
+      "caption": "IMG 20260924 WA0069"
+    },
+    {
+      "id": "gal-1790268909396-70",
+      "title": "IMG 20260924 WA0070",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909305-70.jpg",
+      "caption": "IMG 20260924 WA0070"
+    },
+    {
+      "id": "gal-1790268909396-71",
+      "title": "IMG 20260924 WA0071",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909306-71.jpg",
+      "caption": "IMG 20260924 WA0071"
+    },
+    {
+      "id": "gal-1790268909396-72",
+      "title": "IMG 20260924 WA0072",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909307-72.jpg",
+      "caption": "IMG 20260924 WA0072"
+    },
+    {
+      "id": "gal-1790268909396-73",
+      "title": "IMG 20260924 WA0073",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909308-73.jpg",
+      "caption": "IMG 20260924 WA0073"
+    },
+    {
+      "id": "gal-1790268909396-74",
+      "title": "IMG 20260924 WA0074",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909309-74.jpg",
+      "caption": "IMG 20260924 WA0074"
+    },
+    {
+      "id": "gal-1790268909396-75",
+      "title": "IMG 20260924 WA0075",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909310-75.jpg",
+      "caption": "IMG 20260924 WA0075"
+    },
+    {
+      "id": "gal-1790268909396-76",
+      "title": "IMG 20260924 WA0076",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909311-76.jpg",
+      "caption": "IMG 20260924 WA0076"
+    },
+    {
+      "id": "gal-1790268909396-77",
+      "title": "IMG 20260924 WA0077",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909312-77.jpg",
+      "caption": "IMG 20260924 WA0077"
+    },
+    {
+      "id": "gal-1790268909396-78",
+      "title": "IMG 20260924 WA0078",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909313-78.jpg",
+      "caption": "IMG 20260924 WA0078"
+    },
+    {
+      "id": "gal-1790268909396-79",
+      "title": "IMG 20260924 WA0079",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909314-79.jpg",
+      "caption": "IMG 20260924 WA0079"
+    },
+    {
+      "id": "gal-1790268909396-80",
+      "title": "IMG 20260924 WA0080",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909315-80.jpg",
+      "caption": "IMG 20260924 WA0080"
+    },
+    {
+      "id": "gal-1790268909396-81",
+      "title": "IMG 20260924 WA0081",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909317-81.jpg",
+      "caption": "IMG 20260924 WA0081"
+    },
+    {
+      "id": "gal-1790268909396-82",
+      "title": "IMG 20260924 WA0082",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909318-82.jpg",
+      "caption": "IMG 20260924 WA0082"
+    },
+    {
+      "id": "gal-1790268909396-83",
+      "title": "IMG 20260924 WA0083",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909319-83.jpg",
+      "caption": "IMG 20260924 WA0083"
+    },
+    {
+      "id": "gal-1790268909396-84",
+      "title": "IMG 20260924 WA0084",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909320-84.jpg",
+      "caption": "IMG 20260924 WA0084"
+    },
+    {
+      "id": "gal-1",
+      "title": "Morning Hands-On Math Exploration",
+      "category": "Montessori Classrooms",
+      "image": "/uploads/photo-1790268878696.jpg",
+      "caption": "A pupil working independently with concrete counting beads, building an intuitive understanding of arithmetic and place value.",
+      "level": "Kindergarten"
+    }
+  ],
+  "galleryPhotos": [
+    {
+      "id": "gal-creche-infant",
+      "title": "Creche & Infant Sensory Care",
+      "category": "Montessori Classrooms",
+      "level": "Creche (4m – 2 yrs)",
+      "image": "/images/home-creche-infant.jpg",
+      "caption": "Infants exploring motor balance and visual stimulation in a safe, loving environment in Bechem."
+    },
+    {
+      "id": "gal-daycare-bouncy",
+      "title": "Sensorial & Motor Development",
+      "category": "Outdoor & Sports",
+      "level": "Day Care (2 – 4 yrs)",
+      "image": "/images/home-daycare-bouncy.jpg",
+      "caption": "Active motor play and balance development on our child-friendly play equipment."
+    },
+    {
+      "id": "gal-ride-on-play",
+      "title": "Active Play & Friendship",
+      "category": "Outdoor & Sports",
+      "level": "Early Childhood",
+      "image": "/images/home-ride-on-play.jpg",
+      "caption": "Pupils sharing ride-on toys, fostering social bonds, coordination, and joyous cooperation."
+    },
+    {
+      "id": "gal-class-group",
+      "title": "Class Community & Values",
+      "category": "Montessori Classrooms",
+      "level": "Creche & Day Care",
+      "image": "/images/home-class-group.jpg",
+      "caption": "Our vibrant pupil community in school uniform, learning together and growing in faith and love."
+    },
+    {
+      "id": "gal-1790268909395-1",
+      "title": "IMG 20260924 WA0001",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909222-1.jpg",
+      "caption": "IMG 20260924 WA0001"
+    },
+    {
+      "id": "gal-1790268909395-2",
+      "title": "IMG 20260924 WA0002",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909226-2.jpg",
+      "caption": "IMG 20260924 WA0002"
+    },
+    {
+      "id": "gal-1790268909395-3",
+      "title": "IMG 20260924 WA0003",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909227-3.jpg",
+      "caption": "IMG 20260924 WA0003"
+    },
+    {
+      "id": "gal-1790268909395-4",
+      "title": "IMG 20260924 WA0004",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909228-4.jpg",
+      "caption": "IMG 20260924 WA0004"
+    },
+    {
+      "id": "gal-1790268909395-5",
+      "title": "IMG 20260924 WA0005",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909230-5.jpg",
+      "caption": "IMG 20260924 WA0005"
+    },
+    {
+      "id": "gal-1790268909395-6",
+      "title": "IMG 20260924 WA0006",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909232-6.jpg",
+      "caption": "IMG 20260924 WA0006"
+    },
+    {
+      "id": "gal-1790268909395-7",
+      "title": "IMG 20260924 WA0007",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909233-7.jpg",
+      "caption": "IMG 20260924 WA0007"
+    },
+    {
+      "id": "gal-1790268909395-8",
+      "title": "IMG 20260924 WA0008",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909235-8.jpg",
+      "caption": "IMG 20260924 WA0008"
+    },
+    {
+      "id": "gal-1790268909396-9",
+      "title": "IMG 20260924 WA0009",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909236-9.jpg",
+      "caption": "IMG 20260924 WA0009"
+    },
+    {
+      "id": "gal-1790268909396-10",
+      "title": "IMG 20260924 WA0010",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909238-10.jpg",
+      "caption": "IMG 20260924 WA0010"
+    },
+    {
+      "id": "gal-1790268909396-11",
+      "title": "IMG 20260924 WA0011",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909239-11.jpg",
+      "caption": "IMG 20260924 WA0011"
+    },
+    {
+      "id": "gal-1790268909396-12",
+      "title": "IMG 20260924 WA0012",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909241-12.jpg",
+      "caption": "IMG 20260924 WA0012"
+    },
+    {
+      "id": "gal-1790268909396-13",
+      "title": "IMG 20260924 WA0013",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909242-13.jpg",
+      "caption": "IMG 20260924 WA0013"
+    },
+    {
+      "id": "gal-1790268909396-14",
+      "title": "IMG 20260924 WA0014",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909243-14.jpg",
+      "caption": "IMG 20260924 WA0014"
+    },
+    {
+      "id": "gal-1790268909396-15",
+      "title": "IMG 20260924 WA0015",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909244-15.jpg",
+      "caption": "IMG 20260924 WA0015"
+    },
+    {
+      "id": "gal-1790268909396-16",
+      "title": "IMG 20260924 WA0016",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909245-16.jpg",
+      "caption": "IMG 20260924 WA0016"
+    },
+    {
+      "id": "gal-1790268909396-17",
+      "title": "IMG 20260924 WA0017",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909247-17.jpg",
+      "caption": "IMG 20260924 WA0017"
+    },
+    {
+      "id": "gal-1790268909396-18",
+      "title": "IMG 20260924 WA0018",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909248-18.jpg",
+      "caption": "IMG 20260924 WA0018"
+    },
+    {
+      "id": "gal-1790268909396-19",
+      "title": "IMG 20260924 WA0019",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909249-19.jpg",
+      "caption": "IMG 20260924 WA0019"
+    },
+    {
+      "id": "gal-1790268909396-20",
+      "title": "IMG 20260924 WA0020",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909250-20.jpg",
+      "caption": "IMG 20260924 WA0020"
+    },
+    {
+      "id": "gal-1790268909396-21",
+      "title": "IMG 20260924 WA0021",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909251-21.jpg",
+      "caption": "IMG 20260924 WA0021"
+    },
+    {
+      "id": "gal-1790268909396-22",
+      "title": "IMG 20260924 WA0022",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909252-22.jpg",
+      "caption": "IMG 20260924 WA0022"
+    },
+    {
+      "id": "gal-1790268909396-23",
+      "title": "IMG 20260924 WA0023",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909253-23.jpg",
+      "caption": "IMG 20260924 WA0023"
+    },
+    {
+      "id": "gal-1790268909396-24",
+      "title": "IMG 20260924 WA0024",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909254-24.jpg",
+      "caption": "IMG 20260924 WA0024"
+    },
+    {
+      "id": "gal-1790268909396-25",
+      "title": "IMG 20260924 WA0025",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909255-25.jpg",
+      "caption": "IMG 20260924 WA0025"
+    },
+    {
+      "id": "gal-1790268909396-26",
+      "title": "IMG 20260924 WA0026",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909256-26.jpg",
+      "caption": "IMG 20260924 WA0026"
+    },
+    {
+      "id": "gal-1790268909396-27",
+      "title": "IMG 20260924 WA0027",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909257-27.jpg",
+      "caption": "IMG 20260924 WA0027"
+    },
+    {
+      "id": "gal-1790268909396-28",
+      "title": "IMG 20260924 WA0028",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909258-28.jpg",
+      "caption": "IMG 20260924 WA0028"
+    },
+    {
+      "id": "gal-1790268909396-29",
+      "title": "IMG 20260924 WA0029",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909259-29.jpg",
+      "caption": "IMG 20260924 WA0029"
+    },
+    {
+      "id": "gal-1790268909396-30",
+      "title": "IMG 20260924 WA0030",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909259-30.jpg",
+      "caption": "IMG 20260924 WA0030"
+    },
+    {
+      "id": "gal-1790268909396-31",
+      "title": "IMG 20260924 WA0031",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909260-31.jpg",
+      "caption": "IMG 20260924 WA0031"
+    },
+    {
+      "id": "gal-1790268909396-32",
+      "title": "IMG 20260924 WA0032",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909261-32.jpg",
+      "caption": "IMG 20260924 WA0032"
+    },
+    {
+      "id": "gal-1790268909396-33",
+      "title": "IMG 20260924 WA0033",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909263-33.jpg",
+      "caption": "IMG 20260924 WA0033"
+    },
+    {
+      "id": "gal-1790268909396-34",
+      "title": "IMG 20260924 WA0034",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909264-34.jpg",
+      "caption": "IMG 20260924 WA0034"
+    },
+    {
+      "id": "gal-1790268909396-35",
+      "title": "IMG 20260924 WA0035",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909265-35.jpg",
+      "caption": "IMG 20260924 WA0035"
+    },
+    {
+      "id": "gal-1790268909396-36",
+      "title": "IMG 20260924 WA0036",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909266-36.jpg",
+      "caption": "IMG 20260924 WA0036"
+    },
+    {
+      "id": "gal-1790268909396-37",
+      "title": "IMG 20260924 WA0037",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909267-37.jpg",
+      "caption": "IMG 20260924 WA0037"
+    },
+    {
+      "id": "gal-1790268909396-38",
+      "title": "IMG 20260924 WA0038",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909268-38.jpg",
+      "caption": "IMG 20260924 WA0038"
+    },
+    {
+      "id": "gal-1790268909396-39",
+      "title": "IMG 20260924 WA0039",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909269-39.jpg",
+      "caption": "IMG 20260924 WA0039"
+    },
+    {
+      "id": "gal-1790268909396-40",
+      "title": "IMG 20260924 WA0040",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909271-40.jpg",
+      "caption": "IMG 20260924 WA0040"
+    },
+    {
+      "id": "gal-1790268909396-41",
+      "title": "IMG 20260924 WA0041",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909272-41.jpg",
+      "caption": "IMG 20260924 WA0041"
+    },
+    {
+      "id": "gal-1790268909396-42",
+      "title": "IMG 20260924 WA0042",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909273-42.jpg",
+      "caption": "IMG 20260924 WA0042"
+    },
+    {
+      "id": "gal-1790268909396-43",
+      "title": "IMG 20260924 WA0043",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909274-43.jpg",
+      "caption": "IMG 20260924 WA0043"
+    },
+    {
+      "id": "gal-1790268909396-44",
+      "title": "IMG 20260924 WA0044",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909275-44.jpg",
+      "caption": "IMG 20260924 WA0044"
+    },
+    {
+      "id": "gal-1790268909396-45",
+      "title": "IMG 20260924 WA0045",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909276-45.jpg",
+      "caption": "IMG 20260924 WA0045"
+    },
+    {
+      "id": "gal-1790268909396-46",
+      "title": "IMG 20260924 WA0046",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909277-46.jpg",
+      "caption": "IMG 20260924 WA0046"
+    },
+    {
+      "id": "gal-1790268909396-47",
+      "title": "IMG 20260924 WA0047",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909278-47.jpg",
+      "caption": "IMG 20260924 WA0047"
+    },
+    {
+      "id": "gal-1790268909396-48",
+      "title": "IMG 20260924 WA0048",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909280-48.jpg",
+      "caption": "IMG 20260924 WA0048"
+    },
+    {
+      "id": "gal-1790268909396-49",
+      "title": "IMG 20260924 WA0049",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909281-49.jpg",
+      "caption": "IMG 20260924 WA0049"
+    },
+    {
+      "id": "gal-1790268909396-50",
+      "title": "IMG 20260924 WA0050",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909282-50.jpg",
+      "caption": "IMG 20260924 WA0050"
+    },
+    {
+      "id": "gal-1790268909396-51",
+      "title": "IMG 20260924 WA0051",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909283-51.jpg",
+      "caption": "IMG 20260924 WA0051"
+    },
+    {
+      "id": "gal-1790268909396-52",
+      "title": "IMG 20260924 WA0052",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909284-52.jpg",
+      "caption": "IMG 20260924 WA0052"
+    },
+    {
+      "id": "gal-1790268909396-53",
+      "title": "IMG 20260924 WA0053",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909285-53.jpg",
+      "caption": "IMG 20260924 WA0053"
+    },
+    {
+      "id": "gal-1790268909396-54",
+      "title": "IMG 20260924 WA0054",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909286-54.jpg",
+      "caption": "IMG 20260924 WA0054"
+    },
+    {
+      "id": "gal-1790268909396-55",
+      "title": "IMG 20260924 WA0055",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909288-55.jpg",
+      "caption": "IMG 20260924 WA0055"
+    },
+    {
+      "id": "gal-1790268909396-56",
+      "title": "IMG 20260924 WA0056",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909289-56.jpg",
+      "caption": "IMG 20260924 WA0056"
+    },
+    {
+      "id": "gal-1790268909396-57",
+      "title": "IMG 20260924 WA0057",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909290-57.jpg",
+      "caption": "IMG 20260924 WA0057"
+    },
+    {
+      "id": "gal-1790268909396-58",
+      "title": "IMG 20260924 WA0058",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909291-58.jpg",
+      "caption": "IMG 20260924 WA0058"
+    },
+    {
+      "id": "gal-1790268909396-59",
+      "title": "IMG 20260924 WA0059",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909292-59.jpg",
+      "caption": "IMG 20260924 WA0059"
+    },
+    {
+      "id": "gal-1790268909396-60",
+      "title": "IMG 20260924 WA0060",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909293-60.jpg",
+      "caption": "IMG 20260924 WA0060"
+    },
+    {
+      "id": "gal-1790268909396-61",
+      "title": "IMG 20260924 WA0061",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909294-61.jpg",
+      "caption": "IMG 20260924 WA0061"
+    },
+    {
+      "id": "gal-1790268909396-62",
+      "title": "IMG 20260924 WA0062",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909295-62.jpg",
+      "caption": "IMG 20260924 WA0062"
+    },
+    {
+      "id": "gal-1790268909396-63",
+      "title": "IMG 20260924 WA0063",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909296-63.jpg",
+      "caption": "IMG 20260924 WA0063"
+    },
+    {
+      "id": "gal-1790268909396-64",
+      "title": "IMG 20260924 WA0064",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909298-64.jpg",
+      "caption": "IMG 20260924 WA0064"
+    },
+    {
+      "id": "gal-1790268909396-65",
+      "title": "IMG 20260924 WA0065",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909299-65.jpg",
+      "caption": "IMG 20260924 WA0065"
+    },
+    {
+      "id": "gal-1790268909396-66",
+      "title": "IMG 20260924 WA0066",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909300-66.jpg",
+      "caption": "IMG 20260924 WA0066"
+    },
+    {
+      "id": "gal-1790268909396-67",
+      "title": "IMG 20260924 WA0067",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909301-67.jpg",
+      "caption": "IMG 20260924 WA0067"
+    },
+    {
+      "id": "gal-1790268909396-68",
+      "title": "IMG 20260924 WA0068",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909302-68.jpg",
+      "caption": "IMG 20260924 WA0068"
+    },
+    {
+      "id": "gal-1790268909396-69",
+      "title": "IMG 20260924 WA0069",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909303-69.jpg",
+      "caption": "IMG 20260924 WA0069"
+    },
+    {
+      "id": "gal-1790268909396-70",
+      "title": "IMG 20260924 WA0070",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909305-70.jpg",
+      "caption": "IMG 20260924 WA0070"
+    },
+    {
+      "id": "gal-1790268909396-71",
+      "title": "IMG 20260924 WA0071",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909306-71.jpg",
+      "caption": "IMG 20260924 WA0071"
+    },
+    {
+      "id": "gal-1790268909396-72",
+      "title": "IMG 20260924 WA0072",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909307-72.jpg",
+      "caption": "IMG 20260924 WA0072"
+    },
+    {
+      "id": "gal-1790268909396-73",
+      "title": "IMG 20260924 WA0073",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909308-73.jpg",
+      "caption": "IMG 20260924 WA0073"
+    },
+    {
+      "id": "gal-1790268909396-74",
+      "title": "IMG 20260924 WA0074",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909309-74.jpg",
+      "caption": "IMG 20260924 WA0074"
+    },
+    {
+      "id": "gal-1790268909396-75",
+      "title": "IMG 20260924 WA0075",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909310-75.jpg",
+      "caption": "IMG 20260924 WA0075"
+    },
+    {
+      "id": "gal-1790268909396-76",
+      "title": "IMG 20260924 WA0076",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909311-76.jpg",
+      "caption": "IMG 20260924 WA0076"
+    },
+    {
+      "id": "gal-1790268909396-77",
+      "title": "IMG 20260924 WA0077",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909312-77.jpg",
+      "caption": "IMG 20260924 WA0077"
+    },
+    {
+      "id": "gal-1790268909396-78",
+      "title": "IMG 20260924 WA0078",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909313-78.jpg",
+      "caption": "IMG 20260924 WA0078"
+    },
+    {
+      "id": "gal-1790268909396-79",
+      "title": "IMG 20260924 WA0079",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909314-79.jpg",
+      "caption": "IMG 20260924 WA0079"
+    },
+    {
+      "id": "gal-1790268909396-80",
+      "title": "IMG 20260924 WA0080",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909315-80.jpg",
+      "caption": "IMG 20260924 WA0080"
+    },
+    {
+      "id": "gal-1790268909396-81",
+      "title": "IMG 20260924 WA0081",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909317-81.jpg",
+      "caption": "IMG 20260924 WA0081"
+    },
+    {
+      "id": "gal-1790268909396-82",
+      "title": "IMG 20260924 WA0082",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909318-82.jpg",
+      "caption": "IMG 20260924 WA0082"
+    },
+    {
+      "id": "gal-1790268909396-83",
+      "title": "IMG 20260924 WA0083",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909319-83.jpg",
+      "caption": "IMG 20260924 WA0083"
+    },
+    {
+      "id": "gal-1790268909396-84",
+      "title": "IMG 20260924 WA0084",
+      "category": "Sensorial & Practical Life",
+      "level": "Creche & Day Care",
+      "image": "/uploads/photo-1790268909320-84.jpg",
+      "caption": "IMG 20260924 WA0084"
+    },
+    {
+      "id": "gal-1",
+      "title": "Morning Hands-On Math Exploration",
+      "category": "Montessori Classrooms",
+      "image": "/uploads/photo-1790268878696.jpg",
+      "caption": "A pupil working independently with concrete counting beads, building an intuitive understanding of arithmetic and place value.",
+      "level": "Kindergarten"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Enrolling our son at Good Shepherd Montessori in Bechem was the best decision. Within one term, his reading confidence and polite manners improved remarkably. The values of faith and love are evident in every teacher.",
+      "author": "Mr. & Mrs. Mensah-Bonsu",
+      "role": "Parents of KG2 & Class 2 Pupils",
+      "years": "Bechem Resident"
+    },
+    {
+      "quote": "What amazes me is how independently my 4-year-old daughter dresses herself and helps around the house. The Montessori practical life lessons really build self-discipline. Truly a blessing to Bechem!",
+      "author": "Madam Akosua Serwaa",
+      "role": "Parent of Nursery Pupil",
+      "years": "3rd Year at Good Shepherd"
+    },
+    {
+      "quote": "The teachers are dedicated, patient, and treat every child with genuine love. The environment is safe, orderly, and spiritually uplifting. Our children love coming to school every morning.",
+      "author": "Rev. Kwame Osei-Tutu",
+      "role": "Parent of Class 4 Student",
+      "years": "Bechem Community Member"
+    }
+  ],
+  "faqs": [
+    {
+      "category": "Admissions",
+      "question": "How do we apply for admission to Good Shepherd Montessori in Bechem?",
+      "answer": "Admissions are open year-round with main intakes in September and January. Parents can collect an admission form from the school administration office in Bechem or fill out our online inquiry/tour booking form. After a brief friendly assessment of the child, the admission letter and prospectus are issued."
+    },
+    {
+      "category": "Philosophy",
+      "question": "What does 'Growing in Faith and Love' mean in your daily school life?",
+      "answer": "Our school combines authentic Montessori hands-on learning with strong Christian moral teachings. Children start the day with prayer and devotional songs, learn the golden rule of treating others with kindness, and are encouraged to cultivate honesty, respect for elders, and compassion for all."
+    },
+    {
+      "category": "Curriculum",
+      "question": "Does your curriculum align with the Ghana Education Service (GES) standards?",
+      "answer": "Yes, fully! We integrate the best of the international Montessori methodology (particularly in early childhood sensorial, reading, and mathematics) seamlessly with the GES National Curriculum guidelines, ensuring pupils are exceptionally prepared for high academic performance."
+    },
+    {
+      "category": "Logistics",
+      "question": "What are the school drop-off and pick-up hours?",
+      "answer": "Parents bring their children in the morning between 7:00 AM and 7:30 AM for morning devotion. Pick-up is at the close of school at 3:30 PM for Creche and Day Care. Dedicated, safe visitor parking and organized gate security ensure safe and smooth transition every morning and afternoon."
+    },
+    {
+      "category": "Tuition",
+      "question": "Are payment plans available for school fees?",
+      "answer": "Yes! We understand the economic needs of families. Fees can be paid termly, or parents can arrange a flexible installment plan through the bursar's office before the term examinations."
+    }
+  ],
+  "parentHubData": {
+    "dropOffAndPickUp": {
+      "title": "Morning Drop-Off & Afternoon Pick-Up Protocols",
+      "morningDropOff": {
+        "time": "7:00 AM – 7:30 AM",
+        "description": "Gates open promptly at 7:00 AM. School morning assembly and devotions commence at 7:45 AM. Children should be dropped off on time to foster a peaceful transition into their classroom work cycle."
+      },
+      "afternoonPickUp": {
+        "crecheAndDayCare": "3:30 PM",
+        "agesServed": "4 Months – 4 Years",
+        "latePickupGracePeriod": "Until 4:30 PM (supervision provided)",
+        "description": "Parents or designated guardians collect their wards directly at the campus dismissal stations. For student safety, children are only released to recognized parents or authorized guardians with the official School Pick-Up Security ID card."
+      },
+      "safetyRules": [
+        "No child will be released to an unauthorized adult without prior written or phone authorization from the parent to the administration office.",
+        "Parents are kindly asked to drive at 15 km/h or less within the school access lanes and use the designated visitor parking bays.",
+        "Prompt pick-up is encouraged to allow children adequate rest, home study, and evening family time."
+      ]
+    },
+    "uniformSchedule": [
+      {
+        "day": "Monday & Tuesday",
+        "title": "Formal School Uniform",
+        "description": "Good Shepherd Navy Blue patterned crest uniform with tailored shorts / pleated pinafore.",
+        "footwear": "Clean black leather shoes or plain black school shoes with white socks.",
+        "tag": "Academic Attire"
+      },
+      {
+        "day": "Wednesday & Thursday",
+        "title": "Mid-Week Montessori Uniform",
+        "description": "School monogrammed polo shirt in crisp sky blue with navy blue trousers/skirt.",
+        "footwear": "Black school shoes or neat plain sneakers with white socks.",
+        "tag": "Daily Attire"
+      },
+      {
+        "day": "Friday",
+        "title": "Christian Wear & Sports Day",
+        "description": "Good Shepherd Friday African Print / House Sports T-Shirt with school sports shorts/track trousers.",
+        "footwear": "White or dark sports sneakers suitable for physical development and outdoor games.",
+        "tag": "Activity & Culture"
+      }
+    ],
+    "packedLunchGuidelines": {
+      "policy": "Good Shepherd does not provide school meals. Parents provide wholesome home-packed breakfast, lunch packs, and snacks daily.",
+      "recommendedFoods": [
+        "Warm home-cooked meals (Rice, Ampesi, Waakye, Yam) in insulated thermal flasks",
+        "Healthy protein sources (Boiled eggs, grilled fish, chicken, beans)",
+        "Fresh local fruits (Banana, pawpaw, watermelon slices, oranges)",
+        "Wholewheat bread, plain crackers, and wholesome morning snacks"
+      ],
+      "prohibitedFoods": [
+        "Carbonated fizzy soft drinks and artificial packaged sugary juices",
+        "Chewing gums, lollipops, artificial gummies, and heavily colored candies",
+        "Raw uncooked instant noodles or hazardous packaging"
+      ],
+      "hydration": "Clean, durable, labeled reusable water flask with clean drinking water brought daily. Campus refill points available."
+    },
+    "feePaymentChannels": [
+      {
+        "id": "gcb-bank",
+        "institution": "GCB Bank Ghana",
+        "logo": "/uploads/photo-1790327968913.png",
+        "branch": "Bechem Branch",
+        "accountName": "Good Shepherd Montessori School",
+        "accountNumber": "2131000045892",
+        "type": "Bank Branch Deposit / Wire Transfer",
+        "accentColor": "#F7A800",
+        "instruction": "Please use your Child's Full Name and Class as the deposit reference (e.g., 'Kofi Mensah - Creche'). Submit the duplicate deposit slip to the School Bursar."
+      },
+      {
+        "id": "ecobank-ghana",
+        "institution": "Bechem Branch - Derma Community Bank PLC",
+        "logo": "/uploads/photo-1790328000074.jpg",
+        "branch": "Sunyani / Bechem Agency",
+        "accountName": "Good Shepherd Montessori School Ltd",
+        "accountNumber": "02401344891001",
+        "type": "Bank Direct Deposit ",
+        "accentColor": "#136902",
+        "instruction": "Quote the Student ID number or Child's Name on all electronic wire and mobile bank transfers."
+      },
+      {
+        "id": "mtn-momo",
+        "institution": "MTN Mobile Money",
+        "logo": "/uploads/photo-1790328094392.jpg",
+        "branch": "Authorized Merchant",
+        "merchantName": "Good Shepherd Montessori Bechem",
+        "merchantNumber": "024 213 0983",
+        "momoPayId": "482019",
+        "ussdCode": "*170#",
+        "type": "MTN MoMo Pay / Merchant Code",
+        "accentColor": "#FFCC00",
+        "instruction": "Dial *170# -> Option 2 (MoMo Pay) -> Merchant ID: 482019. Enter Child's Name as reference. Send SMS confirmation to the Bursar."
+      },
+      {
+        "id": "telecel-cash",
+        "institution": "Telecel Cash",
+        "logo": "/uploads/photo-1790328030979.jpg",
+        "branch": "Authorized Merchant",
+        "merchantName": "Good Shepherd Montessori Bechem",
+        "merchantNumber": "024 751 5423",
+        "momoPayId": "782104",
+        "ussdCode": "*110#",
+        "type": "Telecel Cash / Merchant Pay",
+        "accentColor": "#E60000",
+        "instruction": "Dial *110# -> Option 4 (Make Payment) -> Enter Merchant Number. Enter Child's Name as reference. Submit confirmation SMS to the school office."
+      }
+    ],
+    "ptaInfo": {
+      "title": "Parent-Teacher Association (PTA)",
+      "schedule": "General meetings are held once per term on a Saturday morning (9:00 AM – 11:30 AM).",
+      "executives": [
+        {
+          "role": "PTA Chairman",
+          "name": "Mr. Kwadwo Boateng",
+          "contact": "+233 (0) 24 111 2233"
+        },
+        {
+          "role": "PTA Secretary",
+          "name": "Mrs. Evelyn Addo",
+          "contact": "+233 (0) 50 444 5566"
+        },
+        {
+          "role": "Teacher Representative",
+          "name": "Madam Patricia Mensah",
+          "contact": "Via School Office"
+        }
+      ],
+      "mission": "Fostering active collaboration between parents and educators, supporting campus enrichment projects, and maintaining open dialogue for the holistic wellbeing of every child."
+    }
+  },
+  "dayInLifeMoments": [
+    {
+      "time": "7:00 – 7:30 AM",
+      "title": "Parent Drop-off & Morning Devotion",
+      "description": "Parents safely drop off their children at the school gates in Bechem. Every child is greeted with a warm smile and eye contact. We open the day lifting our voices in songs of praise and prayer.",
+      "tag": "Parent Drop-Off & Faith"
+    },
+    {
+      "time": "8:15 AM",
+      "title": "Uninterrupted Montessori Work Cycle",
+      "description": "No loud bells or rushing. Pupils independently select work mats, roll out their activities, and focus deeply with self-correcting wooden materials.",
+      "tag": "Deep Focus"
+    },
+    {
+      "time": "10:30 AM",
+      "title": "Practical Life, Snack & Cleanliness",
+      "description": "Children wash hands at the water stand, serve their meals, clean tables with small sponges, and return utensils to their designated places.",
+      "tag": "Independence"
+    },
+    {
+      "time": "11:30 AM",
+      "title": "Peer-to-Peer Mentorship",
+      "description": "An older KG2 child guides a nursery friend on how to arrange the Pink Tower cubes from largest to smallest, reinforcing patience and love.",
+      "tag": "Love & Leadership"
+    },
+    {
+      "time": "3:30 PM",
+      "title": "Closing Prayer & Safe Parent Pick-Up",
+      "description": "After an afternoon of creative arts, sensory exploration, and play, the school day concludes with a peaceful closing prayer. Parents and authorized guardians arrive for a secure, orderly pick-up.",
+      "tag": "Safe Pick-Up"
+    }
+  ],
+  "lastUpdated": "2026-09-25T09:21:38.261Z",
+  "staffProfiles": [
+    {
+      "id": "board-chair",
+      "name": "Board of Directors (Session Members)",
+      "tier": "Tier 1: Governing Board",
+      "role": "Strategic Governance & Institutional Policy",
+      "department": "Presbyterian Session & Governing Board",
+      "churchRole": "Session Members, Presbyterian Church of Ghana",
+      "image": "/uploads/photo-1790287379586.jpg",
+      "bio": "Formulates long-term strategic direction (3–5 years), approves annual development budgets and fee structures, and ensures strict compliance with Ghana Education Service (GES) and Presbyterian Church of Ghana (PCG) standards.",
+      "functions": [
+        "Provides overall vision, mission, and strategic direction ('Christ-centered Montessori excellence')",
+        "Formulates and ratifies admissions, staff code of conduct, child protection, and safety policies",
+        "Approves annual operating budgets, infrastructure development, and Montessori procurement",
+        "Ensures full compliance with GES regulations and PCG Education Unit accreditation",
+        "Appoints and appraises Management Committee members annually",
+        "Mobilizes community resources, church support, and presbytery partnerships",
+        "Safeguards Presbyterian identity, morning devotions, and Christian discipline",
+        "Approves class size limits (maximum 25 pupils per Montessori standard) and affordable fee schedules",
+        "Receives and scrutinizes termly academic performance and financial audit reports",
+        "Serves as the final appellate body for staff, parent, or disciplinary grievances",
+        "Guarantees campus insurance, structural safety, first aid readiness, and Ghanaian legal compliance"
+      ]
+    },
+    {
+      "id": "district-minister",
+      "name": "Director (District Minister)",
+      "tier": "Tier 2: Management Committee",
+      "role": "Chairman, Management Committee & Spiritual Oversight",
+      "department": "Executive Leadership & Chaplaincy",
+      "churchRole": "District Minister, Presbyterian Church of Ghana, Bechem",
+      "image": "/uploads/photo-1790288249469.jpg",
+      "bio": "Provides spiritual covering and pastoral guidance, chairs monthly Management Committee meetings, leads morning devotions, and ensures Presbyterian Christian values are deeply integrated into daily school life.",
+      "functions": [
+        "Chairs monthly School Management Committee meetings with Christ-centered leadership",
+        "Provides pastoral covering, daily morning devotions, and prayer support for staff and pupils",
+        "Ensures Presbyterian values, Bible knowledge, and Christian morals are woven into school life",
+        "Represents the school at District Session and Presbytery meetings, advocating for institutional needs",
+        "Liaises between Governing Board, Presbytery, and school management with accurate reporting",
+        "Approves emergency decisions in consultation with management when Board is not in session",
+        "Officiates dedicating new facilities, graduation ceremonies, anniversaries, and PTA worship",
+        "Oversees daily chaplaincy services and moral education across all classrooms",
+        "Provides pastoral counseling and Christian conflict resolution for staff, parents, and management"
+      ]
+    },
+    {
+      "id": "supervisor",
+      "name": "Academic Supervisor",
+      "tier": "Tier 2: Management Committee",
+      "role": "Curriculum Implementation & Teaching Quality",
+      "department": "Curriculum & Quality Assurance",
+      "churchRole": "Education Representative, PCG Education Unit",
+      "image": "/uploads/photo-1790287414676.jpg",
+      "bio": "Monitors the harmonious blending of authentic Montessori pedagogy with the Ghana Education Service (GES) Kindergarten and basic curriculum through weekly classroom observations and TLM vetting.",
+      "functions": [
+        "Ensures Montessori Method (practical life, sensorial, language, math, cultural) is blended with GES curriculum",
+        "Conducts weekly classroom observations, evaluating child engagement and facilitator pedagogy",
+        "Vets and approves weekly lesson notes, ensuring age-appropriate and active Montessori apparatus usage",
+        "Organizes termly capacity building workshops on Montessori methods and child psychology",
+        "Analyzes pupil assessment records and advises on targeted academic interventions",
+        "Inspects classrooms to maintain child-friendly, well-ventilated, uncrowded prepared environments",
+        "Ensures proper maintenance of didactic Montessori apparatus and improvised local TLMs",
+        "Monitors continuous assessment records, observation logs, and individual pupil portfolios",
+        "Liaises with GES and PCG Education Unit inspectors, submitting required academic data",
+        "Prepares termly academic performance reports for the Management Committee and Board",
+        "Ensures inclusive education, supporting children with learning difficulties without stigmatization"
+      ]
+    },
+    {
+      "id": "administrator",
+      "name": "School Administrator",
+      "tier": "Tier 2: Management Committee",
+      "role": "Administrative Engine & Institutional Secretariat",
+      "department": "Admissions, Records & Logistics",
+      "churchRole": "Secretariat & Administrative Liaison",
+      "image": "/uploads/photo-1790287452226.jpg",
+      "bio": "The administrative engine of Good Shepherd: maintains the master admissions register, EMIS electronic database, official GES and Church correspondence, procurement of Montessori learning apparatus, and campus asset maintenance.",
+      "functions": [
+        "Maintains the master admissions register, pupil records, and electronic EMIS database",
+        "Prepares official correspondence to GES, Presbyterian Church, and parent circulars",
+        "Assists in fee collection tracking, receipt filing, and auditing support with the Treasurer",
+        "Coordinates procurement of didactic Montessori materials, stationery, and classroom supplies",
+        "Serves as Secretary to the School Management Committee, keeping detailed meeting minutes",
+        "Manages staff duty rosters, punctuality monitoring, and attendance records",
+        "Supervises maintenance of school buildings, furniture, WASH facilities, and asset registers",
+        "Handles public relations, parent reception, visitor logging, and general inquiries",
+        "Enforces school policies, code of conduct, and prepares termly administrative reports",
+        "Oversees campus property safety, perimeter security, and emergency preparedness"
+      ]
+    },
+    {
+      "id": "treasurer",
+      "name": "School Accountant / Treasurer",
+      "tier": "Tier 2: Management Committee",
+      "role": "Financial Prudence & Accounts Management",
+      "department": "Finance & Accounts",
+      "churchRole": "Financial Officer, PCG Financial Compliance",
+      "image": "/uploads/photo-1790287464844.jpg",
+      "bio": "Maintains financial accounts, cash books, issues official receipts for all fee payments, drafts annual budgets, and guarantees complete transparency under the PCG Financial Policy.",
+      "functions": [
+        "Maintains accurate records of all school income and expenditures in official cash books",
+        "Collects school fees and issues official serial-numbered receipts for every transaction",
+        "Prepares monthly and termly financial statements and assists in drafting annual operating budgets",
+        "Enforces strict voucher payment approvals—ensures zero unauthorized expenditures",
+        "Manages official bank lodgments and performs monthly bank reconciliations",
+        "Liaises with PCG external auditors to facilitate transparent annual auditing",
+        "Advises the Management Committee on prudent cost control and tracks fee payment plans",
+        "Keeps all financial vouchers, books, and sensitive fiscal documents under secure lock",
+        "Guarantees full compliance with the Presbyterian Church of Ghana Financial Policy"
+      ]
+    },
+    {
+      "id": "head-of-school",
+      "name": "Head of School",
+      "tier": "Tier 3: Campus Leadership",
+      "role": "Day-to-Day Operations & Faculty Leadership",
+      "department": "Academic & Campus Administration",
+      "churchRole": "Head of School, Good Shepherd Bechem",
+      "image": "/uploads/photo-1790287476334.jpg",
+      "bio": "Opens school at 7:30 AM, supervises facilitators and non-teaching staff, enforces child-centered Montessori methods, enforces child protection with zero abusive corporal punishment, and coordinates terminal assessment reports.",
+      "functions": [
+        "Opens campus early at 7:30 AM and ensures classes and work cycles commence promptly",
+        "Directly executes Board and Management decisions across daily classroom operations",
+        "Supervises and quarterly mentors facilitators and non-teaching personnel",
+        "Ensures authentic child-centered Montessori practices are actively maintained",
+        "Prepares daily routines, academic timetables, and termly school event calendars",
+        "Strictly enforces child protection policy and positive discipline with zero abusive corporal punishment",
+        "Monitors daily pupil attendance, health records, and terminal assessment portfolios",
+        "Maintains transparent parent communication via PTA assemblies, circulars, and report cards",
+        "Organizes school worship devotions, sports days, cultural exhibitions, and graduation events",
+        "Ensures compound cleanliness, functional WASH handwashing facilities, and first aid readiness",
+        "Serves as exemplary role model in Christian piety, professional punctuality, and loving care"
+      ]
+    },
+    {
+      "id": "facilitators",
+      "name": "Montessori Facilitators (Teaching Faculty)",
+      "tier": "Tier 4: Classroom Instruction",
+      "role": "Classroom Guides & Child Development Mentors",
+      "department": "Teaching Faculty",
+      "churchRole": "Montessori Educators & Christian Role Models",
+      "image": "/uploads/photo-1790287486890.jpg",
+      "bio": "Guides children to learn by doing through self-directed exploration, preparing child-sized Montessori environments, recording individual developmental milestones, and teaching courtesy, respect, and hygiene with Christian love.",
+      "functions": [
+        "Guides children to learn by doing through hands-on exploration rather than passive lecturing",
+        "Prepares weekly learning plans and creates engaging corners with local and Montessori apparatus",
+        "Arranges prepared classrooms with child-sized furniture and orderly low shelves",
+        "Observes each child daily, meticulously tracking milestones and sensitive developmental periods",
+        "Maintains continuous assessment portfolios, attendance registers, and developmental profiles",
+        "Teaches grace, courtesy, respect, honesty, and personal hygiene with patient Christian love",
+        "Ensures children are safe and never left unattended in classrooms or playground",
+        "Provides daily developmental feedback to parents during afternoon pick-up",
+        "Identifies speech delays or learning difficulties early for gentle, loving intervention",
+        "Attends termly pedagogical workshops and staff devotions with prompt punctuality",
+        "Works collaboratively as a unified pedagogical team across Creche, KG, and Primary",
+        "Teaches children to respect, properly use, and return Montessori apparatus to their rightful places",
+        "Prepares KG2 children for smooth, confident, and gentle transition into primary education",
+        "Exemplifies Christian values, modesty, polite speech, and deep affection for young children",
+        "Demonstrates unconditional love, fairness, and Christ-like patience in all pupil interactions"
+      ]
+    },
+    {
+      "id": "support-team",
+      "name": "Non-Teaching Support Team",
+      "tier": "Tier 5: Campus Operations",
+      "role": "Sanitation, Health & Hygiene, Landscaping & Security",
+      "department": "Campus Support & Facilities",
+      "churchRole": "Support Team, Good Shepherd Bechem",
+      "image": "/uploads/photo-1790287498564.jpg",
+      "bio": "Dedicated support team ensuring pristine classroom cleanliness before 7:30 AM, child safety, hygiene station maintenance, 24/7 security and compound landscaping in Bechem.",
+      "functions": [
+        "Cleaners: Thoroughly sweep and mop classrooms, offices, and toilets before 7:30 AM and after dismissal",
+        "Sanitation: Empties dustbins daily and disposes waste at designated municipal hygiene sites",
+        "Child Support: Assists facilitators with younger children's handwashing, snack supervision, and hygiene care",
+        "Hygiene Stations: Maintains handwashing stands with fresh water, liquid soap, and clean towels",
+        "Mealtime Care: Assists pupils with opening food containers, clean table habits, and post-lunch sanitization",
+        "Security Guards: Controls campus gates 24/7, registers all visitors, and prevents unauthorized entry",
+        "Gardener: Maintains manicured lawns, waters floral gardens, and tends educational school gardens",
+        "Maintenance: Promptly inspects and reports broken furniture, pipe leakages, or electrical faults",
+        "Safety Vigilance: Immediately flags strangers, safety risks, or child protection concerns",
+        "Christian Culture: Attends staff morning devotions and maintains orderly learning spaces"
+      ]
+    }
+  ]
+}

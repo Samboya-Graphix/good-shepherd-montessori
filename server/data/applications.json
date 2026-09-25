@@ -1,0 +1,33 @@
+[
+  {
+    "id": "app-1001",
+    "type": "application",
+    "submittedAt": "2026-09-20T09:30:00.000Z",
+    "childName": "Emmanuel Kofi Mensah",
+    "childDob": "2024-04-12",
+    "childAge": "2 Years, 5 Months",
+    "gender": "Male",
+    "level": "Day Care & Nursery Community",
+    "parentName": "Mr. Kwabena Mensah",
+    "parentPhone": "+233 24 123 4567",
+    "parentEmail": "kwabena.mensah@gmail.com",
+    "residentialAddress": "Bechem High Street, near Post Office",
+    "specialNeeds": "None. Vaccinations up to date.",
+    "status": "Contacted",
+    "notes": "Parent inquired about morning drop-off protocols."
+  },
+  {
+    "id": "tour-1002",
+    "type": "tour",
+    "submittedAt": "2026-09-22T14:15:00.000Z",
+    "parentName": "Mrs. Evelyn Boateng",
+    "parentPhone": "+233 54 987 6543",
+    "parentEmail": "evelyn.boateng@yahoo.com",
+    "childName": "Serwaa Boateng",
+    "childAge": "9 Months",
+    "level": "Creche Community",
+    "preferredDate": "2026-09-28",
+    "status": "Pending",
+    "notes": "Wants to inspect infant sensory room and feeding area."
+  }
+]

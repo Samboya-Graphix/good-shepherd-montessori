@@ -1,0 +1,16 @@
+{
+  "gs_sec_87d5a5111cae409db608e798a45c408ae1ff7d555c14a26817ef3357b476a7d9": {
+    "username": "admin",
+    "createdAt": 1790324800927,
+    "expiresAt": 1790411200927,
+    "ip": "::1",
+    "userAgent": "node"
+  },
+  "gs_sec_08cbcc61edc622dbc27082acbcfe14bfc17b980a17d222fa5c4cd17303965c9b": {
+    "username": "admin",
+    "createdAt": 1790324896924,
+    "expiresAt": 1790411296924,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+  }
+}

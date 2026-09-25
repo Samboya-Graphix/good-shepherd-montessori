@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80" fill="none">
+  <!-- Telecel Cash Badge Background -->
+  <rect width="320" height="80" rx="12" fill="#FFFFFF"/>
+  
+  <!-- Telecel Icon Emblem -->
+  <g transform="translate(14, 12)">
+    <rect width="56" height="56" rx="12" fill="#E60000"/>
+    <!-- Stylized Lowercase 't' inside Circle -->
+    <circle cx="28" cy="28" rx="20" ry="20" fill="none" stroke="#FFFFFF" stroke-width="3.5"/>
+    <path d="M22 28 H34 M28 18 V38 C28 41 31 41 33 40" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+
+  <!-- Typography: telecel cash -->
+  <text x="82" y="40" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="900" fill="#E60000" letter-spacing="-0.5">telecel</text>
+  <text x="162" y="40" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="700" fill="#222222" letter-spacing="-0.5">cash</text>
+  
+  <!-- Subtitle -->
+  <text x="84" y="58" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" fill="#666666" letter-spacing="0.5">Telecel Mobile Money • Dial *110#</text>
+</svg>

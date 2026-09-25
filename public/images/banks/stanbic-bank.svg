@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <rect width="240" height="70" rx="12" fill="#FFFFFF"/>
+  <!-- Stanbic Blue Shield / Logo -->
+  <path d="M22 20 L58 20 L58 38 C58 48 40 54 40 54 C40 54 22 48 22 38 Z" fill="#0033A0"/>
+  <!-- Inner White and Blue details -->
+  <path d="M28 24 L52 24 L52 36 C52 44 40 48 40 48 C40 48 28 44 28 36 Z" fill="#FFFFFF"/>
+  <path d="M33 28 L47 28 L47 35 C47 40 40 43 40 43 C40 43 33 40 33 35 Z" fill="#0033A0"/>
+  <!-- Text -->
+  <text x="70" y="38" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" fill="#0033A0" letter-spacing="-0.5">Stanbic Bank</text>
+  <text x="70" y="52" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" fill="#64748B" letter-spacing="1">GHANA</text>
+</svg>

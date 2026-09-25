@@ -1,0 +1,430 @@
+[
+  {
+    "id": "audit-1790329195457-fe0c0119",
+    "timestamp": "2026-09-25T09:39:55.458Z",
+    "action": "LOGOUT",
+    "actor": "admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790328683224-7814192c",
+    "timestamp": "2026-09-25T09:31:23.224Z",
+    "action": "LOGIN_SUCCESS",
+    "actor": "admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790328374307-164fdfcc",
+    "timestamp": "2026-09-25T09:26:14.307Z",
+    "action": "LOGOUT",
+    "actor": "admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790328098265-3c4734cc",
+    "timestamp": "2026-09-25T09:21:38.265Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:21:38.261Z"
+    }
+  },
+  {
+    "id": "audit-1790328098220-dc6d2f85",
+    "timestamp": "2026-09-25T09:21:38.220Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:21:38.214Z"
+    }
+  },
+  {
+    "id": "audit-1790328094396-d075a134",
+    "timestamp": "2026-09-25T09:21:34.396Z",
+    "action": "IMAGE_UPLOADED",
+    "actor": "admin",
+    "details": {
+      "filename": "photo-1790328094392.jpg"
+    }
+  },
+  {
+    "id": "audit-1790328086439-9e5bfb73",
+    "timestamp": "2026-09-25T09:21:26.439Z",
+    "action": "IMAGE_UPLOADED",
+    "actor": "admin",
+    "details": {
+      "filename": "photo-1790328086434.png"
+    }
+  },
+  {
+    "id": "audit-1790328035561-aa69d3fb",
+    "timestamp": "2026-09-25T09:20:35.561Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:20:35.557Z"
+    }
+  },
+  {
+    "id": "audit-1790328035514-c2b29f87",
+    "timestamp": "2026-09-25T09:20:35.514Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:20:35.509Z"
+    }
+  },
+  {
+    "id": "audit-1790328030982-80a556a7",
+    "timestamp": "2026-09-25T09:20:30.982Z",
+    "action": "IMAGE_UPLOADED",
+    "actor": "admin",
+    "details": {
+      "filename": "photo-1790328030979.jpg"
+    }
+  },
+  {
+    "id": "audit-1790328013007-bc6fa0e5",
+    "timestamp": "2026-09-25T09:20:13.007Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:20:13.002Z"
+    }
+  },
+  {
+    "id": "audit-1790328012961-92d75a2d",
+    "timestamp": "2026-09-25T09:20:12.961Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:20:12.956Z"
+    }
+  },
+  {
+    "id": "audit-1790328002973-f0face1c",
+    "timestamp": "2026-09-25T09:20:02.973Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:20:02.970Z"
+    }
+  },
+  {
+    "id": "audit-1790328002935-bb43dbec",
+    "timestamp": "2026-09-25T09:20:02.935Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:20:02.930Z"
+    }
+  },
+  {
+    "id": "audit-1790328000077-cf97a57f",
+    "timestamp": "2026-09-25T09:20:00.077Z",
+    "action": "IMAGE_UPLOADED",
+    "actor": "admin",
+    "details": {
+      "filename": "photo-1790328000074.jpg"
+    }
+  },
+  {
+    "id": "audit-1790327991863-f30b686f",
+    "timestamp": "2026-09-25T09:19:51.863Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:19:51.859Z"
+    }
+  },
+  {
+    "id": "audit-1790327991824-dccd781d",
+    "timestamp": "2026-09-25T09:19:51.824Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:19:51.820Z"
+    }
+  },
+  {
+    "id": "audit-1790327971846-8942f9e6",
+    "timestamp": "2026-09-25T09:19:31.846Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:19:31.841Z"
+    }
+  },
+  {
+    "id": "audit-1790327971806-5a3b5072",
+    "timestamp": "2026-09-25T09:19:31.806Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:19:31.802Z"
+    }
+  },
+  {
+    "id": "audit-1790327968915-c30cfee5",
+    "timestamp": "2026-09-25T09:19:28.915Z",
+    "action": "IMAGE_UPLOADED",
+    "actor": "admin",
+    "details": {
+      "filename": "photo-1790327968913.png"
+    }
+  },
+  {
+    "id": "audit-1790327914576-d465aa14",
+    "timestamp": "2026-09-25T09:18:34.576Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:18:34.572Z"
+    }
+  },
+  {
+    "id": "audit-1790327914529-d9cfbf48",
+    "timestamp": "2026-09-25T09:18:34.529Z",
+    "action": "CONTENT_SAVED_AND_PUBLISHED",
+    "actor": "admin",
+    "details": {
+      "lastUpdated": "2026-09-25T09:18:34.525Z"
+    }
+  },
+  {
+    "id": "audit-1790327871863-ab156270",
+    "timestamp": "2026-09-25T09:17:51.863Z",
+    "action": "IMAGE_UPLOADED",
+    "actor": "admin",
+    "details": {
+      "filename": "photo-1790327871859.jpg"
+    }
+  },
+  {
+    "id": "audit-1790327856122-9cf5ab36",
+    "timestamp": "2026-09-25T09:17:36.122Z",
+    "action": "IMAGE_UPLOADED",
+    "actor": "admin",
+    "details": {
+      "filename": "photo-1790327856119.png"
+    }
+  },
+  {
+    "id": "audit-1790327822148-ccea185a",
+    "timestamp": "2026-09-25T09:17:02.148Z",
+    "action": "IMAGE_UPLOADED",
+    "actor": "admin",
+    "details": {
+      "filename": "photo-1790327822131.jpg"
+    }
+  },
+  {
+    "id": "audit-1790327724840-91e43b9c",
+    "timestamp": "2026-09-25T09:15:24.840Z",
+    "action": "IMAGE_UPLOADED",
+    "actor": "admin",
+    "details": {
+      "filename": "photo-1790327724830.png"
+    }
+  },
+  {
+    "id": "audit-1790327712583-409b2b4d",
+    "timestamp": "2026-09-25T09:15:12.583Z",
+    "action": "IMAGE_UPLOADED",
+    "actor": "admin",
+    "details": {
+      "filename": "photo-1790327712577.png"
+    }
+  },
+  {
+    "id": "audit-1790325538810-ad892b21",
+    "timestamp": "2026-09-25T08:38:58.810Z",
+    "action": "LOGIN_SUCCESS",
+    "actor": "admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790325243511-f3a919fd",
+    "timestamp": "2026-09-25T08:34:03.511Z",
+    "action": "LOGOUT",
+    "actor": "Admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790325243503-04f69d99",
+    "timestamp": "2026-09-25T08:34:03.503Z",
+    "action": "LOGOUT",
+    "actor": "Admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790325243494-b3bacca5",
+    "timestamp": "2026-09-25T08:34:03.494Z",
+    "action": "LOGOUT",
+    "actor": "Admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790324896931-19dc797e",
+    "timestamp": "2026-09-25T08:28:16.931Z",
+    "action": "LOGIN_SUCCESS",
+    "actor": "admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790324889225-efb8afb8",
+    "timestamp": "2026-09-25T08:28:09.225Z",
+    "action": "LOGOUT",
+    "actor": "Admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790324889217-01228770",
+    "timestamp": "2026-09-25T08:28:09.217Z",
+    "action": "LOGOUT",
+    "actor": "Admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790324889209-12a3e56c",
+    "timestamp": "2026-09-25T08:28:09.209Z",
+    "action": "LOGOUT",
+    "actor": "Admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790324889201-8abcf5f3",
+    "timestamp": "2026-09-25T08:28:09.201Z",
+    "action": "LOGOUT",
+    "actor": "Admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790324889193-e8316edb",
+    "timestamp": "2026-09-25T08:28:09.193Z",
+    "action": "LOGOUT",
+    "actor": "Admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790324889184-1a90ca04",
+    "timestamp": "2026-09-25T08:28:09.184Z",
+    "action": "LOGOUT",
+    "actor": "Admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790324889176-65a31920",
+    "timestamp": "2026-09-25T08:28:09.176Z",
+    "action": "LOGOUT",
+    "actor": "Admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790324889164-759cbc70",
+    "timestamp": "2026-09-25T08:28:09.164Z",
+    "action": "LOGOUT",
+    "actor": "Admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790324801377-ff793dc6",
+    "timestamp": "2026-09-25T08:26:41.377Z",
+    "action": "LOGIN_BLOCKED_RATE_LIMIT",
+    "actor": "admin",
+    "details": {
+      "ip": "::1",
+      "remainingSeconds": 60
+    }
+  },
+  {
+    "id": "audit-1790324801360-2c6ac6e8",
+    "timestamp": "2026-09-25T08:26:41.360Z",
+    "action": "LOGIN_FAILED",
+    "actor": "admin",
+    "details": {
+      "ip": "::1"
+    }
+  },
+  {
+    "id": "audit-1790324801282-bf071055",
+    "timestamp": "2026-09-25T08:26:41.282Z",
+    "action": "LOGIN_FAILED",
+    "actor": "admin",
+    "details": {
+      "ip": "::1",
+      "attemptsRemaining": 1
+    }
+  },
+  {
+    "id": "audit-1790324801213-8a8c944b",
+    "timestamp": "2026-09-25T08:26:41.213Z",
+    "action": "LOGIN_FAILED",
+    "actor": "admin",
+    "details": {
+      "ip": "::1",
+      "attemptsRemaining": 2
+    }
+  },
+  {
+    "id": "audit-1790324801146-6ddd66c6",
+    "timestamp": "2026-09-25T08:26:41.146Z",
+    "action": "LOGIN_FAILED",
+    "actor": "admin",
+    "details": {
+      "ip": "::1",
+      "attemptsRemaining": 3
+    }
+  },
+  {
+    "id": "audit-1790324801073-733ba4a5",
+    "timestamp": "2026-09-25T08:26:41.073Z",
+    "action": "LOGIN_FAILED",
+    "actor": "admin",
+    "details": {
+      "ip": "::1",
+      "attemptsRemaining": 4
+    }
+  },
+  {
+    "id": "audit-1790324800931-d0dbb4ac",
+    "timestamp": "2026-09-25T08:26:40.931Z",
+    "action": "LOGIN_SUCCESS",
+    "actor": "admin",
+    "details": {
+      "ip": "::1"
+    }
+  }
+]

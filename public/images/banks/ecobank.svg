@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80" fill="none">
+  <!-- Ecobank Badge Background -->
+  <rect width="320" height="80" rx="12" fill="#FFFFFF"/>
+  
+  <!-- Ecobank Waves Symbol -->
+  <g transform="translate(14, 12)">
+    <rect width="56" height="56" rx="12" fill="#005B82"/>
+    <!-- Flowing Ocean Wave Chevron Arcs -->
+    <path d="M12 28 C18 20 28 20 34 28 C40 36 44 36 48 28" stroke="#00A3E0" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+    <path d="M10 38 C18 30 28 30 34 38 C40 46 44 46 48 38" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <path d="M14 47 C20 40 28 40 33 47 C38 53 42 53 46 47" stroke="#7AC142" stroke-width="3" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <!-- Typography: Ecobank -->
+  <text x="82" y="42" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="900" fill="#005B82" letter-spacing="-0.5">Ecobank</text>
+  
+  <!-- Subtitle: The Pan African Bank -->
+  <text x="84" y="58" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="700" fill="#00A3E0" letter-spacing="0.8">The Pan African Bank • Ghana</text>
+</svg>

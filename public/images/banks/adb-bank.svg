@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <rect width="240" height="70" rx="12" fill="#FFFFFF"/>
+  <!-- ADB Green Leaf / Plant Symbol -->
+  <rect x="18" y="16" width="38" height="38" rx="8" fill="#007A3D"/>
+  <path d="M37 22 C37 22 26 26 26 38 C26 44 32 48 37 48 C42 48 48 44 48 38 C48 26 37 22 37 22 Z" fill="#F8B133"/>
+  <path d="M37 28 C37 28 30 32 30 38 C30 42 34 44 37 44 C40 44 44 42 44 38 C44 32 37 28 37 28 Z" fill="#007A3D"/>
+  <!-- Text -->
+  <text x="64" y="38" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900" fill="#007A3D">adb</text>
+  <text x="64" y="52" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" fill="#64748B" letter-spacing="0.5">AGRICULTURAL DEVELOPMENT BANK</text>
+</svg>

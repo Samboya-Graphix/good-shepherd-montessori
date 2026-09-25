@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80" fill="none">
+  <rect width="320" height="80" rx="12" fill="#FFFFFF"/>
+  <g transform="translate(14, 12)">
+    <rect width="56" height="56" rx="12" fill="#781D42"/>
+    <path d="M18 28 C18 20 38 20 38 28 C38 34 26 34 26 40 C26 46 38 46 38 40" stroke="#F5A800" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  </g>
+  <text x="82" y="42" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="900" fill="#781D42" letter-spacing="-0.5">CBG</text>
+  <text x="84" y="58" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="700" fill="#555555" letter-spacing="0.5">Consolidated Bank Ghana</text>
+</svg>
