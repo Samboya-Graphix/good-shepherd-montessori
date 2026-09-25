@@ -153,12 +153,14 @@ export default function Home({ onOpenTourModal }) {
         <div className="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           
           {/* Centered Main Headline */}
-          <h2 className="text-xl sm:text-2xl lg:text-3xl font-normal text-slate-700 tracking-tight">
-            Child-Centered & Safe Nurturing
-          </h2>
-          <h1 className="mt-1 text-4xl sm:text-6xl lg:text-7xl font-sans font-extrabold text-blue-600 tracking-tight leading-[1.1]">
-            Montessori Creche & Day Care
-          </h1>
+          <div className="space-y-1 sm:space-y-2">
+            <h2 className="text-xl sm:text-2xl lg:text-3xl font-medium text-slate-700 tracking-tight">
+              Child-Centered & Safe Nurturing
+            </h2>
+            <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold text-blue-600 tracking-tight leading-[1.12]">
+              Montessori Creche & Day Care
+            </h1>
+          </div>
 
           {/* Subtitle Description */}
           <p className="mt-5 text-sm sm:text-base lg:text-lg text-slate-600 max-w-2xl mx-auto font-normal leading-relaxed">
