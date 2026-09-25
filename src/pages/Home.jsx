@@ -152,48 +152,69 @@ export default function Home({ onOpenTourModal }) {
 
         <div className="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           
-          {/* Centered Main Headline */}
-          <div className="space-y-1 sm:space-y-2">
-            <h2 className="text-xl sm:text-2xl lg:text-3xl font-medium text-slate-700 tracking-tight">
-              Child-Centered & Safe Nurturing
-            </h2>
-            <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold text-blue-600 tracking-tight leading-[1.12]">
-              Montessori Creche & Day Care
-            </h1>
+          {/* Hero Banner Card with Background Image & Blue Opacity Overlay */}
+          <div className="relative overflow-hidden rounded-3xl shadow-2xl border border-blue-900/20 py-12 px-6 sm:py-16 sm:px-12 lg:py-20 lg:px-16 text-center">
+            {/* Background Image of the Kids */}
+            <div 
+              className="absolute inset-0 bg-cover bg-center transition-transform duration-1000 scale-105"
+              style={{ backgroundImage: "url('/images/hero-kids-banner.jpg')" }}
+            />
+
+            {/* Rich Presbyterian Navy Blue Overlay with Opacity Gradient */}
+            <div className="absolute inset-0 bg-gradient-to-b from-[#181b66]/90 via-[#181b66]/82 to-[#0e1142]/94 backdrop-blur-[0.5px]" />
+            
+            {/* Soft Ambient Light Glows */}
+            <div className="absolute -top-24 -left-24 w-72 h-72 bg-blue-400/20 rounded-full blur-3xl pointer-events-none" />
+            <div className="absolute -bottom-24 -right-24 w-72 h-72 bg-blue-500/20 rounded-full blur-3xl pointer-events-none" />
+
+            {/* Content Layer Inside Banner */}
+            <div className="relative z-10 max-w-4xl mx-auto">
+              
+              {/* Centered Main Headline */}
+              <div className="space-y-2">
+                <span className="inline-block text-sm sm:text-lg lg:text-xl font-semibold uppercase tracking-widest text-blue-200 drop-shadow-sm">
+                  Child-Centered &amp; Safe Nurturing
+                </span>
+                <h1 className="text-3xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-white tracking-tight leading-[1.15] drop-shadow-md">
+                  Montessori Creche &amp; Day Care
+                </h1>
+              </div>
+
+              {/* Subtitle Description */}
+              <p className="mt-5 text-sm sm:text-base lg:text-lg text-blue-100/90 max-w-2xl mx-auto font-normal leading-relaxed drop-shadow-xs">
+                A peaceful home away from home in Bechem. We nurture children aged 4 Months to 4 Years with Christian values, experienced teachers, and authentic Montessori discovery.
+              </p>
+
+              {/* Hero Action Pill Buttons */}
+              <div className="mt-8 flex flex-wrap items-center justify-center gap-3 sm:gap-4">
+                <Link
+                  to="/apply"
+                  className="px-8 py-3.5 rounded-full text-sm font-bold text-[#181b66] bg-white hover:bg-blue-50 active:scale-95 transition-all shadow-lg shadow-black/20"
+                >
+                  Apply Online Now
+                </Link>
+
+                <button
+                  onClick={onOpenTourModal}
+                  className="px-6 py-3.5 rounded-full text-sm font-bold text-white hover:bg-white/20 border border-white/40 backdrop-blur-md transition-all shadow-xs"
+                >
+                  Book Campus Tour
+                </button>
+
+                <Link
+                  to="/gallery"
+                  className="inline-flex items-center gap-2 px-6 py-3.5 rounded-full text-sm font-bold text-blue-100 bg-white/10 hover:bg-white/20 border border-white/30 backdrop-blur-md transition-all shadow-xs"
+                >
+                  <Camera className="w-4 h-4 text-blue-300" />
+                  <span>Campus Gallery</span>
+                </Link>
+              </div>
+
+            </div>
           </div>
 
-          {/* Subtitle Description */}
-          <p className="mt-5 text-sm sm:text-base lg:text-lg text-slate-600 max-w-2xl mx-auto font-normal leading-relaxed">
-            A peaceful home away from home in Bechem. We nurture children aged 4 Months to 4 Years with Christian values, experienced teachers, and authentic Montessori discovery.
-          </p>
-
-          {/* Hero Action Pill Buttons */}
-          <div className="mt-7 flex flex-wrap items-center justify-center gap-3 sm:gap-4">
-            <Link
-              to="/apply"
-              className="px-8 py-3.5 rounded-full text-sm font-bold text-white bg-blue-600 hover:bg-blue-700 active:scale-95 transition-all shadow-lg shadow-blue-500/30"
-            >
-              Apply Online Now
-            </Link>
-
-            <button
-              onClick={onOpenTourModal}
-              className="px-6 py-3.5 rounded-full text-sm font-bold text-[#181b66] hover:bg-blue-50 border border-blue-200 transition-all shadow-xs"
-            >
-              Book Campus Tour
-            </button>
-
-            <Link
-              to="/gallery"
-              className="inline-flex items-center gap-2 px-6 py-3.5 rounded-full text-sm font-bold text-blue-600 bg-white hover:bg-blue-50 border border-blue-200 transition-all shadow-xs"
-            >
-              <Camera className="w-4 h-4 text-blue-600" />
-              <span>Campus Gallery</span>
-            </Link>
-          </div>
-
-          {/* 4 STAGGERED CIRCULAR PHOTO FRAMES (Matching the inspiration layout) */}
-          <div className="mt-12 sm:mt-20">
+          {/* 4 STAGGERED CIRCULAR PHOTO FRAMES (Positioned Down Below) */}
+          <div className="mt-12 sm:mt-16">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 xs:gap-4 sm:gap-6 lg:gap-8 max-w-4xl mx-auto items-center justify-center">
               {heroCircles.map((circle) => (
                 <div 
